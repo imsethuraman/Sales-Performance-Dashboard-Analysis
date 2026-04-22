@@ -1,0 +1,1046 @@
+Product,Category,Brand,Cost_Price,Sale_Price,order_date,customer_id,Discount_Band,Units Sold,month_num,year,Revenue,Total_Cost,Discount,Discounted_Revenue,Profit
+MV7,Dynamic Microphone,Shure,174,199,01-12-2023,Germany,None,15,12,2023,2985,2610,0,2985,375
+NT1-A,Condenser Microphone,Rode,160,229,01-12-2023,United States of America,None,6,12,2023,1374,960,0,1374,414
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-12-2023,Canada,None,18,12,2023,3042,2124,0,3042,918
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-12-2023,Germany,None,15,12,2023,2535,1770,0,2535,765
+QuadCast S,Streaming Microphone,HyperX,97,139,01-12-2023,Canada,None,18,12,2023,2502,1746,0,2502,756
+MV7,Dynamic Microphone,Shure,174,199,01-12-2023,France,Low,22,12,2023,4378,3828,0,4378,550
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-12-2023,France,Low,22,12,2023,3718,2596,0,3718,1122
+MV7,Dynamic Microphone,Shure,174,199,01-12-2023,Canada,Low,29,12,2023,5771,5046,0,5771,725
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-12-2023,Canada,Low,19,12,2023,3211,2242,0,3211,969
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-12-2023,Canada,Low,29,12,2023,4901,3422,0,4901,1479
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-12-2023,Canada,Low,27,12,2023,4563,3186,0,4563,1377
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-12-2023,France,Low,11,12,2023,1859,1298,0,1859,561
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-12-2023,Mexico,Low,11,12,2023,1859,1298,0,1859,561
+AudioBox USB 96 Studio,Recording Bundle,PreSonus,90,199,01-12-2023,France,Low,11,12,2023,2189,990,0,2189,1199
+AudioBox USB 96 Studio,Recording Bundle,PreSonus,90,199,01-12-2023,Mexico,Low,11,12,2023,2189,990,0,2189,1199
+QuadCast S,Streaming Microphone,HyperX,97,139,01-12-2023,Canada,Low,27,12,2023,3753,2619,0,3753,1134
+Arctis 7P+,Wireless Gaming Headset,SteelSeries,104,149,01-12-2023,Canada,Low,19,12,2023,2831,1976,0,2831,855
+NT1-A,Condenser Microphone,Rode,160,229,01-12-2023,France,Low,13,12,2023,2977,2080,0,2977,897
+NT1-A,Condenser Microphone,Rode,160,229,01-12-2023,Germany,Low,17,12,2023,3893,2720,0,3893,1173
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-12-2023,France,Low,13,12,2023,2197,1534,0,2197,663
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-12-2023,Germany,Low,17,12,2023,2873,2006,0,2873,867
+MV7,Dynamic Microphone,Shure,174,199,01-12-2023,United States of America,Low,3,12,2023,597,522,0,597,75
+NT1-A,Condenser Microphone,Rode,160,229,01-12-2023,Mexico,Low,11,12,2023,2519,1760,0,2519,759
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-12-2023,United States of America,Low,3,12,2023,507,354,0,507,153
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-12-2023,Mexico,Low,11,12,2023,1859,1298,0,1859,561
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-12-2023,Canada,Medium,24,12,2023,4056,2832,0,4056,1224
+AudioBox USB 96 Studio,Recording Bundle,PreSonus,90,199,01-12-2023,Canada,Medium,24,12,2023,4776,2160,0,4776,2616
+MV7,Dynamic Microphone,Shure,174,199,01-12-2023,United States of America,Medium,6,12,2023,1194,1044,0,1194,150
+MV7,Dynamic Microphone,Shure,174,199,01-12-2023,France,Medium,25,12,2023,4975,4350,0,4975,625
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-12-2023,United States of America,Medium,27,12,2023,4563,3186,0,4563,1377
+AudioBox USB 96 Studio,Recording Bundle,PreSonus,90,199,01-12-2023,Germany,Medium,13,12,2023,2587,1170,0,2587,1417
+QuadCast S,Streaming Microphone,HyperX,97,139,01-12-2023,United States of America,Medium,27,12,2023,3753,2619,0,3753,1134
+QuadCast S,Streaming Microphone,HyperX,97,139,01-12-2023,United States of America,Medium,6,12,2023,834,582,0,834,252
+QuadCast S,Streaming Microphone,HyperX,97,139,01-12-2023,France,Medium,25,12,2023,3475,2425,0,3475,1050
+Arctis 7P+,Wireless Gaming Headset,SteelSeries,104,149,01-12-2023,Germany,Medium,13,12,2023,1937,1352,0,1937,585
+AudioBox USB 96 Studio,Recording Bundle,PreSonus,90,199,01-12-2023,Canada,Medium,16,12,2023,3184,1440,0,3184,1744
+QuadCast S,Streaming Microphone,HyperX,97,139,01-12-2023,Canada,Medium,16,12,2023,2224,1552,0,2224,672
+AudioBox USB 96 Studio,Recording Bundle,PreSonus,90,199,01-12-2023,United States of America,Medium,14,12,2023,2786,1260,0,2786,1526
+Arctis 7P+,Wireless Gaming Headset,SteelSeries,104,149,01-12-2023,United States of America,Medium,14,12,2023,2086,1456,0,2086,630
+MV7,Dynamic Microphone,Shure,174,199,01-12-2023,Mexico,Medium,14,12,2023,2786,2436,0,2786,350
+NT1-A,Condenser Microphone,Rode,160,229,01-12-2023,Germany,Medium,7,12,2023,1603,1120,0,1603,483
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-12-2023,Mexico,Medium,14,12,2023,2366,1652,0,2366,714
+AudioBox USB 96 Studio,Recording Bundle,PreSonus,90,199,01-12-2023,Mexico,Medium,6,12,2023,1194,540,0,1194,654
+Arctis 7P+,Wireless Gaming Headset,SteelSeries,104,149,01-12-2023,Germany,Medium,7,12,2023,1043,728,0,1043,315
+Arctis 7P+,Wireless Gaming Headset,SteelSeries,104,149,01-12-2023,Mexico,Medium,6,12,2023,894,624,0,894,270
+NT1-A,Condenser Microphone,Rode,160,229,01-12-2023,United States of America,Medium,28,12,2023,6412,4480,0,6412,1932
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-12-2023,United States of America,Medium,28,12,2023,4732,3304,0,4732,1428
+MV7,Dynamic Microphone,Shure,174,199,01-12-2023,Mexico,Medium,5,12,2023,995,870,0,995,125
+QuadCast S,Streaming Microphone,HyperX,97,139,01-12-2023,Mexico,Medium,5,12,2023,695,485,0,695,210
+NT1-A,Condenser Microphone,Rode,160,229,01-12-2023,France,High,21,12,2023,4809,3360,0,4809,1449
+AudioBox USB 96 Studio,Recording Bundle,PreSonus,90,199,01-12-2023,France,High,9,12,2023,1791,810,0,1791,981
+Arctis 7P+,Wireless Gaming Headset,SteelSeries,104,149,01-12-2023,France,High,21,12,2023,3129,2184,0,3129,945
+Arctis 7P+,Wireless Gaming Headset,SteelSeries,104,149,01-12-2023,France,High,9,12,2023,1341,936,0,1341,405
+NT1-A,Condenser Microphone,Rode,160,229,01-12-2023,Mexico,High,22,12,2023,5038,3520,0,5038,1518
+Arctis 7P+,Wireless Gaming Headset,SteelSeries,104,149,01-12-2023,Mexico,High,22,12,2023,3278,2288,0,3278,990
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-12-2023,Mexico,High,12,12,2023,2028,1416,0,2028,612
+QuadCast S,Streaming Microphone,HyperX,97,139,01-12-2023,Mexico,High,12,12,2023,1668,1164,0,1668,504
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-12-2023,Germany,High,15,12,2023,2535,1770,0,2535,765
+QuadCast S,Streaming Microphone,HyperX,97,139,01-12-2023,Germany,High,15,12,2023,2085,1455,0,2085,630
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-12-2023,Germany,High,10,12,2023,1690,1180,0,1690,510
+AudioBox USB 96 Studio,Recording Bundle,PreSonus,90,199,01-12-2023,Germany,High,10,12,2023,1990,900,0,1990,1090
+MV7,Dynamic Microphone,Shure,174,199,01-12-2023,Germany,High,3,12,2023,597,522,0,597,75
+QuadCast S,Streaming Microphone,HyperX,97,139,01-12-2023,Germany,High,3,12,2023,417,291,0,417,126
+MV7,Dynamic Microphone,Shure,174,199,01-12-2023,Canada,High,23,12,2023,4577,4002,0,4577,575
+NT1-A,Condenser Microphone,Rode,160,229,01-12-2023,Canada,High,23,12,2023,5267,3680,0,5267,1587
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-12-2023,United States of America,High,9,12,2023,1521,1062,0,1521,459
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-12-2023,France,High,3,12,2023,507,354,0,507,153
+AudioBox USB 96 Studio,Recording Bundle,PreSonus,90,199,01-12-2023,United States of America,High,9,12,2023,1791,810,0,1791,981
+QuadCast S,Streaming Microphone,HyperX,97,139,01-12-2023,France,High,3,12,2023,417,291,0,417,126
+AudioBox USB 96 Studio,Recording Bundle,PreSonus,90,199,01-11-2023,France,Low,6,11,2023,1194,540,0,1194,654
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-11-2023,United States of America,Low,29,11,2023,4901,3422,0,4901,1479
+QuadCast S,Streaming Microphone,HyperX,97,139,01-11-2023,France,Low,17,11,2023,2363,1649,0,2363,714
+NT1-A,Condenser Microphone,Rode,160,229,01-11-2023,Mexico,Low,7,11,2023,1603,1120,0,1603,483
+Arctis 7P+,Wireless Gaming Headset,SteelSeries,104,149,01-11-2023,United States of America,Low,12,11,2023,1788,1248,0,1788,540
+Arctis 7P+,Wireless Gaming Headset,SteelSeries,104,149,01-11-2023,France,Low,9,11,2023,1341,936,0,1341,405
+MV7,Dynamic Microphone,Shure,174,199,01-11-2023,Mexico,Medium,28,11,2023,5572,4872,0,5572,700
+NT1-A,Condenser Microphone,Rode,160,229,01-11-2023,Germany,Medium,23,11,2023,5267,3680,0,5267,1587
+MV7,Dynamic Microphone,Shure,174,199,01-11-2023,United States of America,Medium,20,11,2023,3980,3480,0,3980,500
+NT1-A,Condenser Microphone,Rode,160,229,01-11-2023,United States of America,Medium,27,11,2023,6183,4320,0,6183,1863
+AudioBox USB 96 Studio,Recording Bundle,PreSonus,90,199,01-11-2023,Mexico,Medium,13,11,2023,2587,1170,0,2587,1417
+NT1-A,Condenser Microphone,Rode,160,229,01-11-2023,France,Medium,23,11,2023,5267,3680,0,5267,1587
+AudioBox USB 96 Studio,Recording Bundle,PreSonus,90,199,01-11-2023,United States of America,Medium,6,11,2023,1194,540,0,1194,654
+Arctis 7P+,Wireless Gaming Headset,SteelSeries,104,149,01-11-2023,Canada,Medium,11,11,2023,1639,1144,0,1639,495
+MV7,Dynamic Microphone,Shure,174,199,01-11-2023,France,Medium,5,11,2023,995,870,0,995,125
+Arctis 7P+,Wireless Gaming Headset,SteelSeries,104,149,01-11-2023,Germany,Medium,15,11,2023,2235,1560,0,2235,675
+NT1-A,Condenser Microphone,Rode,160,229,01-11-2023,Canada,Medium,23,11,2023,5267,3680,0,5267,1587
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-11-2023,France,Medium,13,11,2023,2197,1534,0,2197,663
+QuadCast S,Streaming Microphone,HyperX,97,139,01-11-2023,Mexico,Medium,9,11,2023,1251,873,0,1251,378
+Arctis 7P+,Wireless Gaming Headset,SteelSeries,104,149,01-11-2023,Mexico,Medium,17,11,2023,2533,1768,0,2533,765
+AudioBox USB 96 Studio,Recording Bundle,PreSonus,90,199,01-11-2023,Germany,High,27,11,2023,5373,2430,0,5373,2943
+QuadCast S,Streaming Microphone,HyperX,97,139,01-11-2023,Canada,High,25,11,2023,3475,2425,0,3475,1050
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-11-2023,Canada,High,14,11,2023,2366,1652,0,2366,714
+AudioBox USB 96 Studio,Recording Bundle,PreSonus,90,199,01-11-2023,Canada,High,18,11,2023,3582,1620,0,3582,1962
+MV7,Dynamic Microphone,Shure,174,199,01-11-2023,Canada,High,27,11,2023,5373,4698,0,5373,675
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-11-2023,France,High,16,11,2023,2704,1888,0,2704,816
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-11-2023,Germany,High,14,11,2023,2366,1652,0,2366,714
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-11-2023,Mexico,High,22,11,2023,3718,2596,0,3718,1122
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-11-2023,Mexico,High,12,11,2023,2028,1416,0,2028,612
+QuadCast S,Streaming Microphone,HyperX,97,139,01-11-2023,United States of America,High,24,11,2023,3336,2328,0,3336,1008
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-11-2023,Germany,High,4,11,2023,676,472,0,676,204
+MV7,Dynamic Microphone,Shure,174,199,01-11-2023,Germany,High,15,11,2023,2985,2610,0,2985,375
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-11-2023,Canada,High,7,11,2023,1183,826,0,1183,357
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-11-2023,United States of America,High,12,11,2023,2028,1416,0,2028,612
+QuadCast S,Streaming Microphone,HyperX,97,139,01-11-2023,Germany,High,6,11,2023,834,582,0,834,252
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-10-2023,United States of America,None,11,10,2023,1859,1298,0,1859,561
+Arctis 7P+,Wireless Gaming Headset,SteelSeries,104,149,01-10-2023,United States of America,None,11,10,2023,1639,1144,0,1639,495
+MV7,Dynamic Microphone,Shure,174,199,01-10-2023,Mexico,Low,14,10,2023,2786,2436,0,2786,350
+QuadCast S,Streaming Microphone,HyperX,97,139,01-10-2023,Mexico,Low,14,10,2023,1946,1358,0,1946,588
+MV7,Dynamic Microphone,Shure,174,199,01-10-2023,Canada,Low,13,10,2023,2587,2262,0,2587,325
+NT1-A,Condenser Microphone,Rode,160,229,01-10-2023,United States of America,Low,16,10,2023,3664,2560,0,3664,1104
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-10-2023,Canada,Low,13,10,2023,2197,1534,0,2197,663
+AudioBox USB 96 Studio,Recording Bundle,PreSonus,90,199,01-10-2023,United States of America,Low,16,10,2023,3184,1440,0,3184,1744
+AudioBox USB 96 Studio,Recording Bundle,PreSonus,90,199,01-10-2023,Germany,Low,29,10,2023,5771,2610,0,5771,3161
+QuadCast S,Streaming Microphone,HyperX,97,139,01-10-2023,Germany,Low,29,10,2023,4031,2813,0,4031,1218
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-10-2023,Canada,Low,20,10,2023,3380,2360,0,3380,1020
+AudioBox USB 96 Studio,Recording Bundle,PreSonus,90,199,01-10-2023,Canada,Low,20,10,2023,3980,1800,0,3980,2180
+NT1-A,Condenser Microphone,Rode,160,229,01-10-2023,Mexico,Low,20,10,2023,4580,3200,0,4580,1380
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-10-2023,Mexico,Low,20,10,2023,3380,2360,0,3380,1020
+MV7,Dynamic Microphone,Shure,174,199,01-10-2023,Germany,Low,20,10,2023,3980,3480,0,3980,500
+NT1-A,Condenser Microphone,Rode,160,229,01-10-2023,Germany,Low,20,10,2023,4580,3200,0,4580,1380
+AudioBox USB 96 Studio,Recording Bundle,PreSonus,90,199,01-10-2023,France,Low,22,10,2023,4378,1980,0,4378,2398
+QuadCast S,Streaming Microphone,HyperX,97,139,01-10-2023,France,Low,22,10,2023,3058,2134,0,3058,924
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-10-2023,Mexico,Medium,27,10,2023,4563,3186,0,4563,1377
+QuadCast S,Streaming Microphone,HyperX,97,139,01-10-2023,Mexico,Medium,27,10,2023,3753,2619,0,3753,1134
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-10-2023,United States of America,Medium,9,10,2023,1521,1062,0,1521,459
+AudioBox USB 96 Studio,Recording Bundle,PreSonus,90,199,01-10-2023,United States of America,Medium,9,10,2023,1791,810,0,1791,981
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-10-2023,United States of America,Medium,12,10,2023,2028,1416,0,2028,612
+QuadCast S,Streaming Microphone,HyperX,97,139,01-10-2023,United States of America,Medium,12,10,2023,1668,1164,0,1668,504
+MV7,Dynamic Microphone,Shure,174,199,01-10-2023,France,Medium,22,10,2023,4378,3828,0,4378,550
+NT1-A,Condenser Microphone,Rode,160,229,01-10-2023,France,Medium,20,10,2023,4580,3200,0,4580,1380
+NT1-A,Condenser Microphone,Rode,160,229,01-10-2023,France,Medium,22,10,2023,5038,3520,0,5038,1518
+AudioBox USB 96 Studio,Recording Bundle,PreSonus,90,199,01-10-2023,France,Medium,20,10,2023,3980,1800,0,3980,2180
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-10-2023,France,Medium,12,10,2023,2028,1416,0,2028,612
+AudioBox USB 96 Studio,Recording Bundle,PreSonus,90,199,01-10-2023,Canada,Medium,13,10,2023,2587,1170,0,2587,1417
+QuadCast S,Streaming Microphone,HyperX,97,139,01-10-2023,France,Medium,12,10,2023,1668,1164,0,1668,504
+Arctis 7P+,Wireless Gaming Headset,SteelSeries,104,149,01-10-2023,Canada,Medium,13,10,2023,1937,1352,0,1937,585
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-10-2023,Germany,Medium,4,10,2023,676,472,0,676,204
+QuadCast S,Streaming Microphone,HyperX,97,139,01-10-2023,Germany,Medium,4,10,2023,556,388,0,556,168
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-10-2023,Germany,High,2,10,2023,338,236,0,338,102
+AudioBox USB 96 Studio,Recording Bundle,PreSonus,90,199,01-10-2023,Germany,High,2,10,2023,398,180,0,398,218
+AudioBox USB 96 Studio,Recording Bundle,PreSonus,90,199,01-10-2023,Germany,High,5,10,2023,995,450,0,995,545
+Arctis 7P+,Wireless Gaming Headset,SteelSeries,104,149,01-10-2023,Germany,High,5,10,2023,745,520,0,745,225
+MV7,Dynamic Microphone,Shure,174,199,01-10-2023,France,High,24,10,2023,4776,4176,0,4776,600
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-10-2023,France,High,24,10,2023,4056,2832,0,4056,1224
+MV7,Dynamic Microphone,Shure,174,199,01-10-2023,Mexico,High,22,10,2023,4378,3828,0,4378,550
+NT1-A,Condenser Microphone,Rode,160,229,01-10-2023,Canada,High,27,10,2023,6183,4320,0,6183,1863
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-10-2023,Mexico,High,22,10,2023,3718,2596,0,3718,1122
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-10-2023,Mexico,High,9,10,2023,1521,1062,0,1521,459
+AudioBox USB 96 Studio,Recording Bundle,PreSonus,90,199,01-10-2023,United States of America,High,10,10,2023,1990,900,0,1990,1090
+AudioBox USB 96 Studio,Recording Bundle,PreSonus,90,199,01-10-2023,Mexico,High,9,10,2023,1791,810,0,1791,981
+QuadCast S,Streaming Microphone,HyperX,97,139,01-10-2023,United States of America,High,10,10,2023,1390,970,0,1390,420
+Arctis 7P+,Wireless Gaming Headset,SteelSeries,104,149,01-10-2023,Canada,High,27,10,2023,4023,2808,0,4023,1215
+NT1-A,Condenser Microphone,Rode,160,229,01-10-2023,Canada,High,13,10,2023,2977,2080,0,2977,897
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-10-2023,Canada,High,16,10,2023,2704,1888,0,2704,816
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-10-2023,Canada,High,13,10,2023,2197,1534,0,2197,663
+AudioBox USB 96 Studio,Recording Bundle,PreSonus,90,199,01-10-2023,Mexico,High,4,10,2023,796,360,0,796,436
+QuadCast S,Streaming Microphone,HyperX,97,139,01-10-2023,Canada,High,16,10,2023,2224,1552,0,2224,672
+Arctis 7P+,Wireless Gaming Headset,SteelSeries,104,149,01-10-2023,Mexico,High,4,10,2023,596,416,0,596,180
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-10-2023,France,High,14,10,2023,2366,1652,0,2366,714
+Arctis 7P+,Wireless Gaming Headset,SteelSeries,104,149,01-10-2023,France,High,14,10,2023,2086,1456,0,2086,630
+MV7,Dynamic Microphone,Shure,174,199,01-10-2023,Canada,High,15,10,2023,2985,2610,0,2985,375
+MV7,Dynamic Microphone,Shure,174,199,01-10-2023,United States of America,High,10,10,2023,1990,1740,0,1990,250
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-10-2023,United States of America,High,29,10,2023,4901,3422,0,4901,1479
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-10-2023,France,High,17,10,2023,2873,2006,0,2873,867
+QuadCast S,Streaming Microphone,HyperX,97,139,01-10-2023,Canada,High,15,10,2023,2085,1455,0,2085,630
+QuadCast S,Streaming Microphone,HyperX,97,139,01-10-2023,United States of America,High,10,10,2023,1390,970,0,1390,420
+Arctis 7P+,Wireless Gaming Headset,SteelSeries,104,149,01-10-2023,United States of America,High,29,10,2023,4321,3016,0,4321,1305
+Arctis 7P+,Wireless Gaming Headset,SteelSeries,104,149,01-10-2023,France,High,17,10,2023,2533,1768,0,2533,765
+MV7,Dynamic Microphone,Shure,174,199,01-10-2023,Germany,High,11,10,2023,2189,1914,0,2189,275
+NT1-A,Condenser Microphone,Rode,160,229,01-10-2023,Mexico,High,6,10,2023,1374,960,0,1374,414
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-10-2023,Germany,High,11,10,2023,1859,1298,0,1859,561
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-10-2023,Germany,High,12,10,2023,2028,1416,0,2028,612
+QuadCast S,Streaming Microphone,HyperX,97,139,01-10-2023,Germany,High,12,10,2023,1668,1164,0,1668,504
+Arctis 7P+,Wireless Gaming Headset,SteelSeries,104,149,01-10-2023,Mexico,High,6,10,2023,894,624,0,894,270
+NT1-A,Condenser Microphone,Rode,160,229,01-10-2023,Germany,None,22,10,2023,5038,3520,0,5038,1518
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-09-2023,Mexico,None,25,9,2023,4225,2950,0,4225,1275
+QuadCast S,Streaming Microphone,HyperX,97,139,01-09-2023,France,None,22,9,2023,3058,2134,0,3058,924
+MV7,Dynamic Microphone,Shure,174,199,01-09-2023,Canada,Low,15,9,2023,2985,2610,0,2985,375
+MV7,Dynamic Microphone,Shure,174,199,01-09-2023,France,Low,27,9,2023,5373,4698,0,5373,675
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-09-2023,Germany,Low,8,9,2023,1352,944,0,1352,408
+QuadCast S,Streaming Microphone,HyperX,97,139,01-09-2023,Germany,Low,10,9,2023,1390,970,0,1390,420
+MV7,Dynamic Microphone,Shure,174,199,01-09-2023,United States of America,Low,20,9,2023,3980,3480,0,3980,500
+NT1-A,Condenser Microphone,Rode,160,229,01-09-2023,France,Low,5,9,2023,1145,800,0,1145,345
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-09-2023,Canada,Low,2,9,2023,338,236,0,338,102
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-09-2023,Canada,Low,21,9,2023,3549,2478,0,3549,1071
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-09-2023,United States of America,Low,11,9,2023,1859,1298,0,1859,561
+Arctis 7P+,Wireless Gaming Headset,SteelSeries,104,149,01-09-2023,Germany,Low,19,9,2023,2831,1976,0,2831,855
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-09-2023,France,Medium,26,9,2023,4394,3068,0,4394,1326
+MV7,Dynamic Microphone,Shure,174,199,01-09-2023,Mexico,Medium,6,9,2023,1194,1044,0,1194,150
+Arctis 7P+,Wireless Gaming Headset,SteelSeries,104,149,01-09-2023,Mexico,Medium,17,9,2023,2533,1768,0,2533,765
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-09-2023,France,Medium,15,9,2023,2535,1770,0,2535,765
+AudioBox USB 96 Studio,Recording Bundle,PreSonus,90,199,01-09-2023,Germany,Medium,21,9,2023,4179,1890,0,4179,2289
+Arctis 7P+,Wireless Gaming Headset,SteelSeries,104,149,01-09-2023,France,Medium,29,9,2023,4321,3016,0,4321,1305
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-09-2023,Germany,Medium,19,9,2023,3211,2242,0,3211,969
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-09-2023,Mexico,Medium,30,9,2023,5070,3540,0,5070,1530
+QuadCast S,Streaming Microphone,HyperX,97,139,01-09-2023,Canada,Medium,21,9,2023,2919,2037,0,2919,882
+AudioBox USB 96 Studio,Recording Bundle,PreSonus,90,199,01-09-2023,Canada,Medium,6,9,2023,1194,540,0,1194,654
+AudioBox USB 96 Studio,Recording Bundle,PreSonus,90,199,01-09-2023,Mexico,Medium,21,9,2023,4179,1890,0,4179,2289
+QuadCast S,Streaming Microphone,HyperX,97,139,01-09-2023,United States of America,Medium,19,9,2023,2641,1843,0,2641,798
+Arctis 7P+,Wireless Gaming Headset,SteelSeries,104,149,01-09-2023,United States of America,Medium,21,9,2023,3129,2184,0,3129,945
+MV7,Dynamic Microphone,Shure,174,199,01-09-2023,Germany,Medium,16,9,2023,3184,2784,0,3184,400
+NT1-A,Condenser Microphone,Rode,160,229,01-09-2023,United States of America,High,23,9,2023,5267,3680,0,5267,1587
+AudioBox USB 96 Studio,Recording Bundle,PreSonus,90,199,01-09-2023,United States of America,High,16,9,2023,3184,1440,0,3184,1744
+QuadCast S,Streaming Microphone,HyperX,97,139,01-09-2023,Mexico,High,4,9,2023,556,388,0,556,168
+Arctis 7P+,Wireless Gaming Headset,SteelSeries,104,149,01-09-2023,Canada,High,7,9,2023,1043,728,0,1043,315
+NT1-A,Condenser Microphone,Rode,160,229,01-09-2023,Mexico,High,24,9,2023,5496,3840,0,5496,1656
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-09-2023,United States of America,High,18,9,2023,3042,2124,0,3042,918
+NT1-A,Condenser Microphone,Rode,160,229,01-09-2023,Canada,High,4,9,2023,916,640,0,916,276
+AudioBox USB 96 Studio,Recording Bundle,PreSonus,90,199,01-09-2023,France,High,7,9,2023,1393,630,0,1393,763
+NT1-A,Condenser Microphone,Rode,160,229,01-08-2023,Mexico,None,10,8,2023,2290,1600,0,2290,690
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-08-2023,Mexico,None,9,8,2023,1521,1062,0,1521,459
+AudioBox USB 96 Studio,Recording Bundle,PreSonus,90,199,01-08-2023,United States of America,None,28,8,2023,5572,2520,0,5572,3052
+Arctis 7P+,Wireless Gaming Headset,SteelSeries,104,149,01-08-2023,United States of America,None,21,8,2023,3129,2184,0,3129,945
+NT1-A,Condenser Microphone,Rode,160,229,01-08-2023,Canada,Low,18,8,2023,4122,2880,0,4122,1242
+AudioBox USB 96 Studio,Recording Bundle,PreSonus,90,199,01-08-2023,Canada,Low,9,8,2023,1791,810,0,1791,981
+QuadCast S,Streaming Microphone,HyperX,97,139,01-08-2023,Canada,Low,19,8,2023,2641,1843,0,2641,798
+QuadCast S,Streaming Microphone,HyperX,97,139,01-08-2023,Mexico,Low,16,8,2023,2224,1552,0,2224,672
+NT1-A,Condenser Microphone,Rode,160,229,01-08-2023,Germany,Low,19,8,2023,4351,3040,0,4351,1311
+Arctis 7P+,Wireless Gaming Headset,SteelSeries,104,149,01-08-2023,Mexico,Medium,11,8,2023,1639,1144,0,1639,495
+AudioBox USB 96 Studio,Recording Bundle,PreSonus,90,199,01-08-2023,United States of America,Medium,28,8,2023,5572,2520,0,5572,3052
+AudioBox USB 96 Studio,Recording Bundle,PreSonus,90,199,01-08-2023,France,Medium,16,8,2023,3184,1440,0,3184,1744
+Arctis 7P+,Wireless Gaming Headset,SteelSeries,104,149,01-08-2023,Canada,Medium,6,8,2023,894,624,0,894,270
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-08-2023,United States of America,Medium,22,8,2023,3718,2596,0,3718,1122
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-08-2023,Germany,Medium,17,8,2023,2873,2006,0,2873,867
+AudioBox USB 96 Studio,Recording Bundle,PreSonus,90,199,01-08-2023,Germany,Medium,10,8,2023,1990,900,0,1990,1090
+MV7,Dynamic Microphone,Shure,174,199,01-08-2023,Canada,Medium,19,8,2023,3781,3306,0,3781,475
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-08-2023,France,Medium,21,8,2023,3549,2478,0,3549,1071
+AudioBox USB 96 Studio,Recording Bundle,PreSonus,90,199,01-08-2023,Mexico,Medium,6,8,2023,1194,540,0,1194,654
+MV7,Dynamic Microphone,Shure,174,199,01-08-2023,Mexico,Medium,15,8,2023,2985,2610,0,2985,375
+NT1-A,Condenser Microphone,Rode,160,229,01-08-2023,France,Medium,16,8,2023,3664,2560,0,3664,1104
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-08-2023,United States of America,Medium,7,8,2023,1183,826,0,1183,357
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-08-2023,Germany,Medium,16,8,2023,2704,1888,0,2704,816
+QuadCast S,Streaming Microphone,HyperX,97,139,01-08-2023,France,Medium,4,8,2023,556,388,0,556,168
+QuadCast S,Streaming Microphone,HyperX,97,139,01-08-2023,Germany,Medium,4,8,2023,556,388,0,556,168
+QuadCast S,Streaming Microphone,HyperX,97,139,01-08-2023,United States of America,High,28,8,2023,3892,2716,0,3892,1176
+Arctis 7P+,Wireless Gaming Headset,SteelSeries,104,149,01-08-2023,Germany,High,26,8,2023,3874,2704,0,3874,1170
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-08-2023,Canada,High,24,8,2023,4056,2832,0,4056,1224
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-08-2023,Mexico,High,20,8,2023,3380,2360,0,3380,1020
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-08-2023,France,High,27,8,2023,4563,3186,0,4563,1377
+QuadCast S,Streaming Microphone,HyperX,97,139,01-08-2023,United States of America,High,25,8,2023,3475,2425,0,3475,1050
+Arctis 7P+,Wireless Gaming Headset,SteelSeries,104,149,01-08-2023,France,High,25,8,2023,3725,2600,0,3725,1125
+MV7,Dynamic Microphone,Shure,174,199,01-08-2023,France,High,12,8,2023,2388,2088,0,2388,300
+MV7,Dynamic Microphone,Shure,174,199,01-08-2023,Germany,High,28,8,2023,5572,4872,0,5572,700
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-08-2023,Canada,High,26,8,2023,4394,3068,0,4394,1326
+NT1-A,Condenser Microphone,Rode,160,229,01-07-2023,Canada,None,27,7,2023,6183,4320,0,6183,1863
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-07-2023,Germany,None,4,7,2023,676,472,0,676,204
+Arctis 7P+,Wireless Gaming Headset,SteelSeries,104,149,01-07-2023,Germany,None,17,7,2023,2533,1768,0,2533,765
+MV7,Dynamic Microphone,Shure,174,199,01-07-2023,United States of America,Low,25,7,2023,4975,4350,0,4975,625
+NT1-A,Condenser Microphone,Rode,160,229,01-07-2023,France,Low,14,7,2023,3206,2240,0,3206,966
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-07-2023,Mexico,Low,18,7,2023,3042,2124,0,3042,918
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-07-2023,United States of America,Low,14,7,2023,2366,1652,0,2366,714
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-07-2023,United States of America,Low,35,7,2023,5915,4130,0,5915,1785
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-07-2023,France,Low,30,7,2023,5070,3540,0,5070,1530
+Arctis 7P+,Wireless Gaming Headset,SteelSeries,104,149,01-07-2023,Mexico,Medium,17,7,2023,2533,1768,0,2533,765
+NT1-A,Condenser Microphone,Rode,160,229,01-07-2023,United States of America,Medium,36,7,2023,8244,5760,0,8244,2484
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-07-2023,Germany,Medium,35,7,2023,5915,4130,0,5915,1785
+AudioBox USB 96 Studio,Recording Bundle,PreSonus,90,199,01-07-2023,France,Medium,17,7,2023,3383,1530,0,3383,1853
+NT1-A,Condenser Microphone,Rode,160,229,01-07-2023,Germany,Medium,7,7,2023,1603,1120,0,1603,483
+QuadCast S,Streaming Microphone,HyperX,97,139,01-07-2023,United States of America,Medium,4,7,2023,556,388,0,556,168
+AudioBox USB 96 Studio,Recording Bundle,PreSonus,90,199,01-07-2023,Canada,Medium,38,7,2023,7562,3420,0,7562,4142
+AudioBox USB 96 Studio,Recording Bundle,PreSonus,90,199,01-07-2023,Germany,Medium,13,7,2023,2587,1170,0,2587,1417
+MV7,Dynamic Microphone,Shure,174,199,01-07-2023,Canada,Medium,8,7,2023,1592,1392,0,1592,200
+Arctis 7P+,Wireless Gaming Headset,SteelSeries,104,149,01-07-2023,Canada,Medium,16,7,2023,2384,1664,0,2384,720
+AudioBox USB 96 Studio,Recording Bundle,PreSonus,90,199,01-07-2023,France,High,6,7,2023,1194,540,0,1194,654
+QuadCast S,Streaming Microphone,HyperX,97,139,01-07-2023,Mexico,High,6,7,2023,834,582,0,834,252
+Arctis 7P+,Wireless Gaming Headset,SteelSeries,104,149,01-07-2023,United States of America,High,32,7,2023,4768,3328,0,4768,1440
+MV7,Dynamic Microphone,Shure,174,199,01-07-2023,Germany,High,28,7,2023,5572,4872,0,5572,700
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-07-2023,Canada,High,21,7,2023,3549,2478,0,3549,1071
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-07-2023,Canada,High,40,7,2023,6760,4720,0,6760,2040
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-07-2023,France,High,24,7,2023,4056,2832,0,4056,1224
+AudioBox USB 96 Studio,Recording Bundle,PreSonus,90,199,01-07-2023,Mexico,High,14,7,2023,2786,1260,0,2786,1526
+QuadCast S,Streaming Microphone,HyperX,97,139,01-07-2023,France,High,39,7,2023,5421,3783,0,5421,1638
+Arctis 7P+,Wireless Gaming Headset,SteelSeries,104,149,01-07-2023,France,High,34,7,2023,5066,3536,0,5066,1530
+NT1-A,Condenser Microphone,Rode,160,229,01-07-2023,Mexico,High,23,7,2023,5267,3680,0,5267,1587
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-07-2023,Mexico,High,6,7,2023,1014,708,0,1014,306
+MV7,Dynamic Microphone,Shure,174,199,01-07-2023,Mexico,High,8,7,2023,1592,1392,0,1592,200
+AudioBox USB 96 Studio,Recording Bundle,PreSonus,90,199,01-07-2023,United States of America,High,25,7,2023,4975,2250,0,4975,2725
+QuadCast S,Streaming Microphone,HyperX,97,139,01-07-2023,Canada,High,9,7,2023,1251,873,0,1251,378
+QuadCast S,Streaming Microphone,HyperX,97,139,01-07-2023,Germany,High,5,7,2023,695,485,0,695,210
+MV7,Dynamic Microphone,Shure,174,199,01-06-2023,France,None,22,6,2023,4378,3828,0,4378,550
+MV7,Dynamic Microphone,Shure,174,199,01-06-2023,Germany,None,9,6,2023,1791,1566,0,1791,225
+MV7,Dynamic Microphone,Shure,174,199,01-06-2023,Mexico,None,25,6,2023,4975,4350,0,4975,625
+NT1-A,Condenser Microphone,Rode,160,229,01-06-2023,Canada,None,25,6,2023,5725,4000,0,5725,1725
+NT1-A,Condenser Microphone,Rode,160,229,01-06-2023,France,None,19,6,2023,4351,3040,0,4351,1311
+NT1-A,Condenser Microphone,Rode,160,229,01-06-2023,Germany,None,16,6,2023,3664,2560,0,3664,1104
+NT1-A,Condenser Microphone,Rode,160,229,01-06-2023,Mexico,None,25,6,2023,5725,4000,0,5725,1725
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-06-2023,Canada,None,25,6,2023,4225,2950,0,4225,1275
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-06-2023,Germany,None,10,6,2023,1690,1180,0,1690,510
+AudioBox USB 96 Studio,Recording Bundle,PreSonus,90,199,01-06-2023,Germany,None,10,6,2023,1990,900,0,1990,1090
+AudioBox USB 96 Studio,Recording Bundle,PreSonus,90,199,01-06-2023,Germany,None,16,6,2023,3184,1440,0,3184,1744
+QuadCast S,Streaming Microphone,HyperX,97,139,01-06-2023,France,None,22,6,2023,3058,2134,0,3058,924
+QuadCast S,Streaming Microphone,HyperX,97,139,01-06-2023,Germany,None,9,6,2023,1251,873,0,1251,378
+Arctis 7P+,Wireless Gaming Headset,SteelSeries,104,149,01-06-2023,France,None,19,6,2023,2831,1976,0,2831,855
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-06-2023,United States of America,Low,7,6,2023,1183,826,0,1183,357
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-06-2023,France,Low,8,6,2023,1352,944,0,1352,408
+QuadCast S,Streaming Microphone,HyperX,97,139,01-06-2023,United States of America,Low,7,6,2023,973,679,0,973,294
+QuadCast S,Streaming Microphone,HyperX,97,139,01-06-2023,France,Low,8,6,2023,1112,776,0,1112,336
+NT1-A,Condenser Microphone,Rode,160,229,01-06-2023,United States of America,Low,11,6,2023,2519,1760,0,2519,759
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-06-2023,United States of America,Low,11,6,2023,1859,1298,0,1859,561
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-06-2023,Mexico,Low,7,6,2023,1183,826,0,1183,357
+QuadCast S,Streaming Microphone,HyperX,97,139,01-06-2023,Mexico,Low,7,6,2023,973,679,0,973,294
+MV7,Dynamic Microphone,Shure,174,199,01-06-2023,Germany,Low,7,6,2023,1393,1218,0,1393,175
+NT1-A,Condenser Microphone,Rode,160,229,01-06-2023,France,Low,19,6,2023,4351,3040,0,4351,1311
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-06-2023,France,Low,19,6,2023,3211,2242,0,3211,969
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-06-2023,Germany,Low,7,6,2023,1183,826,0,1183,357
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-06-2023,Germany,Low,16,6,2023,2704,1888,0,2704,816
+QuadCast S,Streaming Microphone,HyperX,97,139,01-06-2023,Germany,Low,16,6,2023,2224,1552,0,2224,672
+MV7,Dynamic Microphone,Shure,174,199,01-06-2023,United States of America,Medium,10,6,2023,1990,1740,0,1990,250
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-06-2023,United States of America,Medium,10,6,2023,1690,1180,0,1690,510
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-06-2023,United States of America,Medium,6,6,2023,1014,708,0,1014,306
+AudioBox USB 96 Studio,Recording Bundle,PreSonus,90,199,01-06-2023,United States of America,Medium,6,6,2023,1194,540,0,1194,654
+MV7,Dynamic Microphone,Shure,174,199,01-06-2023,Canada,Medium,28,6,2023,5572,4872,0,5572,700
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-06-2023,France,Medium,15,6,2023,2535,1770,0,2535,765
+AudioBox USB 96 Studio,Recording Bundle,PreSonus,90,199,01-06-2023,France,Medium,15,6,2023,2985,1350,0,2985,1635
+AudioBox USB 96 Studio,Recording Bundle,PreSonus,90,199,01-06-2023,Mexico,Medium,15,6,2023,2985,1350,0,2985,1635
+QuadCast S,Streaming Microphone,HyperX,97,139,01-06-2023,Canada,Medium,28,6,2023,3892,2716,0,3892,1176
+QuadCast S,Streaming Microphone,HyperX,97,139,01-06-2023,Mexico,Medium,15,6,2023,2085,1455,0,2085,630
+AudioBox USB 96 Studio,Recording Bundle,PreSonus,90,199,01-06-2023,Canada,Medium,11,6,2023,2189,990,0,2189,1199
+Arctis 7P+,Wireless Gaming Headset,SteelSeries,104,149,01-06-2023,Canada,Medium,11,6,2023,1639,1144,0,1639,495
+MV7,Dynamic Microphone,Shure,174,199,01-06-2023,France,Medium,5,6,2023,995,870,0,995,125
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-06-2023,France,Medium,5,6,2023,845,590,0,845,255
+NT1-A,Condenser Microphone,Rode,160,229,01-06-2023,United States of America,Medium,13,6,2023,2977,2080,0,2977,897
+Arctis 7P+,Wireless Gaming Headset,SteelSeries,104,149,01-06-2023,United States of America,Medium,13,6,2023,1937,1352,0,1937,585
+NT1-A,Condenser Microphone,Rode,160,229,01-06-2023,Canada,Medium,7,6,2023,1603,1120,0,1603,483
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-06-2023,Germany,Medium,14,6,2023,2366,1652,0,2366,714
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-06-2023,Mexico,Medium,25,6,2023,4225,2950,0,4225,1275
+AudioBox USB 96 Studio,Recording Bundle,PreSonus,90,199,01-06-2023,United States of America,Medium,29,6,2023,5771,2610,0,5771,3161
+AudioBox USB 96 Studio,Recording Bundle,PreSonus,90,199,01-06-2023,Germany,Medium,23,6,2023,4577,2070,0,4577,2507
+QuadCast S,Streaming Microphone,HyperX,97,139,01-06-2023,Germany,Medium,23,6,2023,3197,2231,0,3197,966
+Arctis 7P+,Wireless Gaming Headset,SteelSeries,104,149,01-06-2023,Canada,Medium,7,6,2023,1043,728,0,1043,315
+Arctis 7P+,Wireless Gaming Headset,SteelSeries,104,149,01-06-2023,United States of America,Medium,29,6,2023,4321,3016,0,4321,1305
+Arctis 7P+,Wireless Gaming Headset,SteelSeries,104,149,01-06-2023,Germany,Medium,14,6,2023,2086,1456,0,2086,630
+Arctis 7P+,Wireless Gaming Headset,SteelSeries,104,149,01-06-2023,Mexico,Medium,25,6,2023,3725,2600,0,3725,1125
+MV7,Dynamic Microphone,Shure,174,199,01-06-2023,Canada,Medium,11,6,2023,2189,1914,0,2189,275
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-06-2023,Canada,Medium,11,6,2023,1859,1298,0,1859,561
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-06-2023,Mexico,Medium,10,6,2023,1690,1180,0,1690,510
+Arctis 7P+,Wireless Gaming Headset,SteelSeries,104,149,01-06-2023,Mexico,Medium,10,6,2023,1490,1040,0,1490,450
+MV7,Dynamic Microphone,Shure,174,199,01-06-2023,Mexico,High,9,6,2023,1791,1566,0,1791,225
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-06-2023,Mexico,High,9,6,2023,1521,1062,0,1521,459
+MV7,Dynamic Microphone,Shure,174,199,01-06-2023,United States of America,High,26,6,2023,5174,4524,0,5174,650
+QuadCast S,Streaming Microphone,HyperX,97,139,01-06-2023,United States of America,High,26,6,2023,3614,2522,0,3614,1092
+NT1-A,Condenser Microphone,Rode,160,229,01-06-2023,Mexico,High,6,6,2023,1374,960,0,1374,414
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-06-2023,Canada,High,26,6,2023,4394,3068,0,4394,1326
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-06-2023,Canada,High,16,6,2023,2704,1888,0,2704,816
+AudioBox USB 96 Studio,Recording Bundle,PreSonus,90,199,01-06-2023,Canada,High,26,6,2023,5174,2340,0,5174,2834
+AudioBox USB 96 Studio,Recording Bundle,PreSonus,90,199,01-06-2023,France,High,12,6,2023,2388,1080,0,2388,1308
+AudioBox USB 96 Studio,Recording Bundle,PreSonus,90,199,01-06-2023,Mexico,High,6,6,2023,1194,540,0,1194,654
+QuadCast S,Streaming Microphone,HyperX,97,139,01-06-2023,Canada,High,16,6,2023,2224,1552,0,2224,672
+Arctis 7P+,Wireless Gaming Headset,SteelSeries,104,149,01-06-2023,France,High,12,6,2023,1788,1248,0,1788,540
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-05-2023,France,Low,10,5,2023,1690,1180,0,1690,510
+AudioBox USB 96 Studio,Recording Bundle,PreSonus,90,199,01-05-2023,Mexico,Low,4,5,2023,796,360,0,796,436
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-05-2023,France,Low,9,5,2023,1521,1062,0,1521,459
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-05-2023,Germany,Low,17,5,2023,2873,2006,0,2873,867
+Arctis 7P+,Wireless Gaming Headset,SteelSeries,104,149,01-05-2023,Germany,Low,23,5,2023,3427,2392,0,3427,1035
+MV7,Dynamic Microphone,Shure,174,199,01-05-2023,Canada,Low,8,5,2023,1592,1392,0,1592,200
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-05-2023,United States of America,Low,29,5,2023,4901,3422,0,4901,1479
+QuadCast S,Streaming Microphone,HyperX,97,139,01-05-2023,France,Low,9,5,2023,1251,873,0,1251,378
+MV7,Dynamic Microphone,Shure,174,199,01-05-2023,France,Medium,16,5,2023,3184,2784,0,3184,400
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-05-2023,United States of America,Medium,23,5,2023,3887,2714,0,3887,1173
+NT1-A,Condenser Microphone,Rode,160,229,01-05-2023,Germany,Medium,15,5,2023,3435,2400,0,3435,1035
+AudioBox USB 96 Studio,Recording Bundle,PreSonus,90,199,01-05-2023,Germany,Medium,15,5,2023,2985,1350,0,2985,1635
+AudioBox USB 96 Studio,Recording Bundle,PreSonus,90,199,01-05-2023,Canada,Medium,13,5,2023,2587,1170,0,2587,1417
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-05-2023,Canada,Medium,17,5,2023,2873,2006,0,2873,867
+Arctis 7P+,Wireless Gaming Headset,SteelSeries,104,149,01-05-2023,Canada,Medium,17,5,2023,2533,1768,0,2533,765
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-05-2023,Canada,Medium,3,5,2023,507,354,0,507,153
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-05-2023,Germany,Medium,11,5,2023,1859,1298,0,1859,561
+NT1-A,Condenser Microphone,Rode,160,229,01-05-2023,France,Medium,17,5,2023,3893,2720,0,3893,1173
+AudioBox USB 96 Studio,Recording Bundle,PreSonus,90,199,01-05-2023,Mexico,Medium,3,5,2023,597,270,0,597,327
+QuadCast S,Streaming Microphone,HyperX,97,139,01-05-2023,Germany,Medium,9,5,2023,1251,873,0,1251,378
+MV7,Dynamic Microphone,Shure,174,199,01-05-2023,Germany,Medium,7,5,2023,1393,1218,0,1393,175
+NT1-A,Condenser Microphone,Rode,160,229,01-05-2023,United States of America,High,23,5,2023,5267,3680,0,5267,1587
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-05-2023,Mexico,High,6,5,2023,1014,708,0,1014,306
+AudioBox USB 96 Studio,Recording Bundle,PreSonus,90,199,01-05-2023,United States of America,High,8,5,2023,1592,720,0,1592,872
+QuadCast S,Streaming Microphone,HyperX,97,139,01-05-2023,Mexico,High,3,5,2023,417,291,0,417,126
+Arctis 7P+,Wireless Gaming Headset,SteelSeries,104,149,01-05-2023,Mexico,High,20,5,2023,2980,2080,0,2980,900
+Arctis 7P+,Wireless Gaming Headset,SteelSeries,104,149,01-05-2023,France,High,14,5,2023,2086,1456,0,2086,630
+QuadCast S,Streaming Microphone,HyperX,97,139,01-05-2023,Canada,High,21,5,2023,2919,2037,0,2919,882
+NT1-A,Condenser Microphone,Rode,160,229,01-05-2023,Mexico,High,27,5,2023,6183,4320,0,6183,1863
+MV7,Dynamic Microphone,Shure,174,199,01-05-2023,United States of America,High,17,5,2023,3383,2958,0,3383,425
+NT1-A,Condenser Microphone,Rode,160,229,01-05-2023,Canada,High,2,5,2023,458,320,0,458,138
+Arctis 7P+,Wireless Gaming Headset,SteelSeries,104,149,01-05-2023,United States of America,High,28,5,2023,4172,2912,0,4172,1260
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-05-2023,Mexico,High,29,5,2023,4901,3422,0,4901,1479
+AudioBox USB 96 Studio,Recording Bundle,PreSonus,90,199,01-05-2023,France,High,28,5,2023,5572,2520,0,5572,3052
+QuadCast S,Streaming Microphone,HyperX,97,139,01-05-2023,United States of America,High,18,5,2023,2502,1746,0,2502,756
+QuadCast S,Streaming Microphone,HyperX,97,139,01-04-2023,Germany,None,28,4,2023,3892,2716,0,3892,1176
+Arctis 7P+,Wireless Gaming Headset,SteelSeries,104,149,01-04-2023,United States of America,None,20,4,2023,2980,2080,0,2980,900
+Arctis 7P+,Wireless Gaming Headset,SteelSeries,104,149,01-04-2023,Germany,None,42,4,2023,6258,4368,0,6258,1890
+NT1-A,Condenser Microphone,Rode,160,229,01-04-2023,United States of America,Low,23,4,2023,5267,3680,0,5267,1587
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-04-2023,United States of America,Low,45,4,2023,7605,5310,0,7605,2295
+AudioBox USB 96 Studio,Recording Bundle,PreSonus,90,199,01-04-2023,France,Low,39,4,2023,7761,3510,0,7761,4251
+QuadCast S,Streaming Microphone,HyperX,97,139,01-04-2023,Canada,Low,9,4,2023,1251,873,0,1251,378
+MV7,Dynamic Microphone,Shure,174,199,01-04-2023,Canada,Low,7,4,2023,1393,1218,0,1393,175
+MV7,Dynamic Microphone,Shure,174,199,01-04-2023,France,Low,42,4,2023,8358,7308,0,8358,1050
+MV7,Dynamic Microphone,Shure,174,199,01-04-2023,Germany,Low,26,4,2023,5174,4524,0,5174,650
+QuadCast S,Streaming Microphone,HyperX,97,139,01-04-2023,Mexico,Low,19,4,2023,2641,1843,0,2641,798
+AudioBox USB 96 Studio,Recording Bundle,PreSonus,90,199,01-04-2023,Canada,Low,39,4,2023,7761,3510,0,7761,4251
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-04-2023,Germany,Low,14,4,2023,2366,1652,0,2366,714
+Arctis 7P+,Wireless Gaming Headset,SteelSeries,104,149,01-04-2023,Mexico,Low,11,4,2023,1639,1144,0,1639,495
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-04-2023,Mexico,Medium,16,4,2023,2704,1888,0,2704,816
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-04-2023,France,Medium,38,4,2023,6422,4484,0,6422,1938
+NT1-A,Condenser Microphone,Rode,160,229,01-04-2023,Mexico,Medium,10,4,2023,2290,1600,0,2290,690
+QuadCast S,Streaming Microphone,HyperX,97,139,01-04-2023,France,Medium,17,4,2023,2363,1649,0,2363,714
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-04-2023,Germany,Medium,13,4,2023,2197,1534,0,2197,663
+QuadCast S,Streaming Microphone,HyperX,97,139,01-04-2023,France,Medium,6,4,2023,834,582,0,834,252
+NT1-A,Condenser Microphone,Rode,160,229,01-04-2023,Canada,Medium,38,4,2023,8702,6080,0,8702,2622
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-04-2023,United States of America,Medium,37,4,2023,6253,4366,0,6253,1887
+QuadCast S,Streaming Microphone,HyperX,97,139,01-04-2023,United States of America,Medium,14,4,2023,1946,1358,0,1946,588
+AudioBox USB 96 Studio,Recording Bundle,PreSonus,90,199,01-04-2023,Mexico,Medium,26,4,2023,5174,2340,0,5174,2834
+MV7,Dynamic Microphone,Shure,174,199,01-04-2023,United States of America,High,35,4,2023,6965,6090,0,6965,875
+AudioBox USB 96 Studio,Recording Bundle,PreSonus,90,199,01-04-2023,Germany,High,5,4,2023,995,450,0,995,545
+Arctis 7P+,Wireless Gaming Headset,SteelSeries,104,149,01-04-2023,Canada,High,35,4,2023,5215,3640,0,5215,1575
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-04-2023,France,High,25,4,2023,4225,2950,0,4225,1275
+NT1-A,Condenser Microphone,Rode,160,229,01-04-2023,France,High,18,4,2023,4122,2880,0,4122,1242
+MV7,Dynamic Microphone,Shure,174,199,01-04-2023,Mexico,High,26,4,2023,5174,4524,0,5174,650
+NT1-A,Condenser Microphone,Rode,160,229,01-04-2023,Germany,High,12,4,2023,2748,1920,0,2748,828
+AudioBox USB 96 Studio,Recording Bundle,PreSonus,90,199,01-04-2023,United States of America,High,6,4,2023,1194,540,0,1194,654
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-04-2023,Canada,High,16,4,2023,2704,1888,0,2704,816
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-04-2023,Mexico,High,25,4,2023,4225,2950,0,4225,1275
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-04-2023,Canada,High,7,4,2023,1183,826,0,1183,357
+NT1-A,Condenser Microphone,Rode,160,229,01-03-2023,Germany,None,9,3,2023,2061,1440,0,2061,621
+AudioBox USB 96 Studio,Recording Bundle,PreSonus,90,199,01-03-2023,Germany,None,22,3,2023,4378,1980,0,4378,2398
+QuadCast S,Streaming Microphone,HyperX,97,139,01-03-2023,Canada,Low,13,3,2023,1807,1261,0,1807,546
+MV7,Dynamic Microphone,Shure,174,199,01-03-2023,Mexico,Low,12,3,2023,2388,2088,0,2388,300
+NT1-A,Condenser Microphone,Rode,160,229,01-03-2023,Mexico,Low,22,3,2023,5038,3520,0,5038,1518
+QuadCast S,Streaming Microphone,HyperX,97,139,01-03-2023,Germany,Low,3,3,2023,417,291,0,417,126
+Arctis 7P+,Wireless Gaming Headset,SteelSeries,104,149,01-03-2023,Germany,Low,3,3,2023,447,312,0,447,135
+Arctis 7P+,Wireless Gaming Headset,SteelSeries,104,149,01-03-2023,Mexico,Low,11,3,2023,1639,1144,0,1639,495
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-03-2023,Canada,Low,18,3,2023,3042,2124,0,3042,918
+NT1-A,Condenser Microphone,Rode,160,229,01-03-2023,Canada,Low,20,3,2023,4580,3200,0,4580,1380
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-03-2023,Germany,Low,8,3,2023,1352,944,0,1352,408
+AudioBox USB 96 Studio,Recording Bundle,PreSonus,90,199,01-03-2023,United States of America,Low,15,3,2023,2985,1350,0,2985,1635
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-03-2023,United States of America,Medium,30,3,2023,5070,3540,0,5070,1530
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-03-2023,France,Medium,24,3,2023,4056,2832,0,4056,1224
+MV7,Dynamic Microphone,Shure,174,199,01-03-2023,United States of America,Medium,18,3,2023,3582,3132,0,3582,450
+NT1-A,Condenser Microphone,Rode,160,229,01-03-2023,France,Medium,25,3,2023,5725,4000,0,5725,1725
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-03-2023,Mexico,Medium,11,3,2023,1859,1298,0,1859,561
+AudioBox USB 96 Studio,Recording Bundle,PreSonus,90,199,01-03-2023,Canada,Medium,6,3,2023,1194,540,0,1194,654
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-03-2023,United States of America,Medium,10,3,2023,1690,1180,0,1690,510
+AudioBox USB 96 Studio,Recording Bundle,PreSonus,90,199,01-03-2023,France,Medium,20,3,2023,3980,1800,0,3980,2180
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-03-2023,France,High,20,3,2023,3380,2360,0,3380,1020
+Arctis 7P+,Wireless Gaming Headset,SteelSeries,104,149,01-03-2023,United States of America,High,30,3,2023,4470,3120,0,4470,1350
+QuadCast S,Streaming Microphone,HyperX,97,139,01-03-2023,United States of America,High,16,3,2023,2224,1552,0,2224,672
+MV7,Dynamic Microphone,Shure,174,199,01-03-2023,Germany,High,8,3,2023,1592,1392,0,1592,200
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-03-2023,Mexico,High,11,3,2023,1859,1298,0,1859,561
+NT1-A,Condenser Microphone,Rode,160,229,01-03-2023,United States of America,High,7,3,2023,1603,1120,0,1603,483
+QuadCast S,Streaming Microphone,HyperX,97,139,01-03-2023,France,High,15,3,2023,2085,1455,0,2085,630
+MV7,Dynamic Microphone,Shure,174,199,01-03-2023,Canada,High,9,3,2023,1791,1566,0,1791,225
+MV7,Dynamic Microphone,Shure,174,199,01-03-2023,France,High,18,3,2023,3582,3132,0,3582,450
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-03-2023,Canada,High,24,3,2023,4056,2832,0,4056,1224
+QuadCast S,Streaming Microphone,HyperX,97,139,01-03-2023,Mexico,High,29,3,2023,4031,2813,0,4031,1218
+Arctis 7P+,Wireless Gaming Headset,SteelSeries,104,149,01-03-2023,Canada,High,9,3,2023,1341,936,0,1341,405
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-03-2023,Germany,High,12,3,2023,2028,1416,0,2028,612
+AudioBox USB 96 Studio,Recording Bundle,PreSonus,90,199,01-03-2023,Mexico,High,5,3,2023,995,450,0,995,545
+Arctis 7P+,Wireless Gaming Headset,SteelSeries,104,149,01-03-2023,France,High,25,3,2023,3725,2600,0,3725,1125
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-02-2023,Canada,None,3,2,2023,507,354,0,507,153
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-02-2023,Mexico,None,10,2,2023,1690,1180,0,1690,510
+AudioBox USB 96 Studio,Recording Bundle,PreSonus,90,199,01-02-2023,France,None,18,2,2023,3582,1620,0,3582,1962
+QuadCast S,Streaming Microphone,HyperX,97,139,01-02-2023,Canada,None,20,2,2023,2780,1940,0,2780,840
+Arctis 7P+,Wireless Gaming Headset,SteelSeries,104,149,01-02-2023,France,None,28,2,2023,4172,2912,0,4172,1260
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-02-2023,France,Low,23,2,2023,3887,2714,0,3887,1173
+MV7,Dynamic Microphone,Shure,174,199,01-02-2023,United States of America,Low,19,2,2023,3781,3306,0,3781,475
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-02-2023,United States of America,Low,15,2,2023,2535,1770,0,2535,765
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-02-2023,Canada,Low,24,2,2023,4056,2832,0,4056,1224
+NT1-A,Condenser Microphone,Rode,160,229,01-02-2023,Germany,Low,20,2,2023,4580,3200,0,4580,1380
+QuadCast S,Streaming Microphone,HyperX,97,139,01-02-2023,United States of America,Low,28,2,2023,3892,2716,0,3892,1176
+Arctis 7P+,Wireless Gaming Headset,SteelSeries,104,149,01-02-2023,Mexico,Low,19,2,2023,2831,1976,0,2831,855
+MV7,Dynamic Microphone,Shure,174,199,01-02-2023,France,Medium,19,2,2023,3781,3306,0,3781,475
+MV7,Dynamic Microphone,Shure,174,199,01-02-2023,Germany,Medium,11,2,2023,2189,1914,0,2189,275
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-02-2023,France,Medium,13,2,2023,2197,1534,0,2197,663
+AudioBox USB 96 Studio,Recording Bundle,PreSonus,90,199,01-02-2023,Germany,Medium,8,2,2023,1592,720,0,1592,872
+Arctis 7P+,Wireless Gaming Headset,SteelSeries,104,149,01-02-2023,Germany,Medium,14,2,2023,2086,1456,0,2086,630
+AudioBox USB 96 Studio,Recording Bundle,PreSonus,90,199,01-02-2023,Canada,Medium,10,2,2023,1990,900,0,1990,1090
+AudioBox USB 96 Studio,Recording Bundle,PreSonus,90,199,01-02-2023,United States of America,Medium,28,2,2023,5572,2520,0,5572,3052
+MV7,Dynamic Microphone,Shure,174,199,01-02-2023,Mexico,Medium,7,2,2023,1393,1218,0,1393,175
+QuadCast S,Streaming Microphone,HyperX,97,139,01-02-2023,France,Medium,10,2,2023,1390,970,0,1390,420
+QuadCast S,Streaming Microphone,HyperX,97,139,01-02-2023,Mexico,Medium,28,2,2023,3892,2716,0,3892,1176
+NT1-A,Condenser Microphone,Rode,160,229,01-02-2023,Canada,Medium,5,2,2023,1145,800,0,1145,345
+QuadCast S,Streaming Microphone,HyperX,97,139,01-02-2023,Germany,Medium,27,2,2023,3753,2619,0,3753,1134
+Arctis 7P+,Wireless Gaming Headset,SteelSeries,104,149,01-02-2023,Canada,High,22,2,2023,3278,2288,0,3278,990
+MV7,Dynamic Microphone,Shure,174,199,01-02-2023,Canada,High,19,2,2023,3781,3306,0,3781,475
+Arctis 7P+,Wireless Gaming Headset,SteelSeries,104,149,01-02-2023,United States of America,High,3,2,2023,447,312,0,447,135
+NT1-A,Condenser Microphone,Rode,160,229,01-02-2023,United States of America,High,13,2,2023,2977,2080,0,2977,897
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-02-2023,United States of America,High,26,2,2023,4394,3068,0,4394,1326
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-02-2023,Germany,High,27,2,2023,4563,3186,0,4563,1377
+NT1-A,Condenser Microphone,Rode,160,229,01-02-2023,France,High,3,2,2023,687,480,0,687,207
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-02-2023,Germany,High,3,2,2023,507,354,0,507,153
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-02-2023,Mexico,High,3,2,2023,507,354,0,507,153
+AudioBox USB 96 Studio,Recording Bundle,PreSonus,90,199,01-02-2023,Mexico,High,16,2,2023,3184,1440,0,3184,1744
+NT1-A,Condenser Microphone,Rode,160,229,01-02-2023,Mexico,High,14,2,2023,3206,2240,0,3206,966
+MV7,Dynamic Microphone,Shure,174,199,01-01-2023,Canada,None,16,1,2023,3184,2784,0,3184,400
+MV7,Dynamic Microphone,Shure,174,199,01-01-2023,Germany,None,13,1,2023,2587,2262,0,2587,325
+AudioBox USB 96 Studio,Recording Bundle,PreSonus,90,199,01-01-2023,Mexico,None,15,1,2023,2985,1350,0,2985,1635
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-01-2023,France,Low,40,1,2023,6760,4720,0,6760,2040
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-01-2023,France,Low,24,1,2023,4056,2832,0,4056,1224
+QuadCast S,Streaming Microphone,HyperX,97,139,01-01-2023,Germany,Low,25,1,2023,3475,2425,0,3475,1050
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-01-2023,Canada,Low,43,1,2023,7267,5074,0,7267,2193
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-01-2023,Germany,Medium,14,1,2023,2366,1652,0,2366,714
+NT1-A,Condenser Microphone,Rode,160,229,01-01-2023,France,Medium,14,1,2023,3206,2240,0,3206,966
+AudioBox USB 96 Studio,Recording Bundle,PreSonus,90,199,01-01-2023,United States of America,Medium,6,1,2023,1194,540,0,1194,654
+AudioBox USB 96 Studio,Recording Bundle,PreSonus,90,199,01-01-2023,Mexico,Medium,29,1,2023,5771,2610,0,5771,3161
+MV7,Dynamic Microphone,Shure,174,199,01-01-2023,United States of America,Medium,11,1,2023,2189,1914,0,2189,275
+Arctis 7P+,Wireless Gaming Headset,SteelSeries,104,149,01-01-2023,France,Medium,20,1,2023,2980,2080,0,2980,900
+NT1-A,Condenser Microphone,Rode,160,229,01-01-2023,Mexico,Medium,23,1,2023,5267,3680,0,5267,1587
+QuadCast S,Streaming Microphone,HyperX,97,139,01-01-2023,Canada,Medium,32,1,2023,4448,3104,0,4448,1344
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-01-2023,Mexico,Medium,26,1,2023,4394,3068,0,4394,1326
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-01-2023,Mexico,Medium,24,1,2023,4056,2832,0,4056,1224
+QuadCast S,Streaming Microphone,HyperX,97,139,01-01-2023,United States of America,Medium,20,1,2023,2780,1940,0,2780,840
+AudioBox USB 96 Studio,Recording Bundle,PreSonus,90,199,01-01-2023,Germany,High,7,1,2023,1393,630,0,1393,763
+Arctis 7P+,Wireless Gaming Headset,SteelSeries,104,149,01-01-2023,United States of America,High,6,1,2023,894,624,0,894,270
+AudioBox USB 96 Studio,Recording Bundle,PreSonus,90,199,01-01-2023,Canada,High,4,1,2023,796,360,0,796,436
+NT1-A,Condenser Microphone,Rode,160,229,01-01-2023,Germany,High,8,1,2023,1832,1280,0,1832,552
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-01-2023,Canada,High,9,1,2023,1521,1062,0,1521,459
+QuadCast S,Streaming Microphone,HyperX,97,139,01-01-2023,France,High,17,1,2023,2363,1649,0,2363,714
+QuadCast S,Streaming Microphone,HyperX,97,139,01-01-2023,Mexico,High,6,1,2023,834,582,0,834,252
+Arctis 7P+,Wireless Gaming Headset,SteelSeries,104,149,01-01-2023,Germany,High,32,1,2023,4768,3328,0,4768,1440
+Arctis 7P+,Wireless Gaming Headset,SteelSeries,104,149,01-01-2023,Mexico,High,26,1,2023,3874,2704,0,3874,1170
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-01-2023,United States of America,High,35,1,2023,5915,4130,0,5915,1785
+MV7,Dynamic Microphone,Shure,174,199,01-01-2023,France,High,25,1,2023,4975,4350,0,4975,625
+NT1-A,Condenser Microphone,Rode,160,229,01-01-2023,United States of America,High,10,1,2023,2290,1600,0,2290,690
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-01-2023,United States of America,High,14,1,2023,2366,1652,0,2366,714
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-01-2023,Germany,High,8,1,2023,1352,944,0,1352,408
+AudioBox USB 96 Studio,Recording Bundle,PreSonus,90,199,01-01-2023,France,High,40,1,2023,7960,3600,0,7960,4360
+Arctis 7P+,Wireless Gaming Headset,SteelSeries,104,149,01-01-2023,Canada,High,17,1,2023,2533,1768,0,2533,765
+NT1-A,Condenser Microphone,Rode,160,229,01-01-2023,Canada,High,22,1,2023,5038,3520,0,5038,1518
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-12-2022,Canada,None,22,12,2022,3718,2596,0,3718,1122
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-12-2022,United States of America,Low,19,12,2022,3211,2242,0,3211,969
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-12-2022,United States of America,Low,20,12,2022,3380,2360,0,3380,1020
+AudioBox USB 96 Studio,Recording Bundle,PreSonus,90,199,01-12-2022,Mexico,Low,5,12,2022,995,450,0,995,545
+QuadCast S,Streaming Microphone,HyperX,97,139,01-12-2022,United States of America,Low,3,12,2022,417,291,0,417,126
+QuadCast S,Streaming Microphone,HyperX,97,139,01-12-2022,Mexico,Low,19,12,2022,2641,1843,0,2641,798
+MV7,Dynamic Microphone,Shure,174,199,01-12-2022,Canada,Low,9,12,2022,1791,1566,0,1791,225
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-12-2022,France,Low,23,12,2022,3887,2714,0,3887,1173
+Arctis 7P+,Wireless Gaming Headset,SteelSeries,104,149,01-12-2022,Canada,Low,18,12,2022,2682,1872,0,2682,810
+NT1-A,Condenser Microphone,Rode,160,229,01-12-2022,Mexico,Medium,11,12,2022,2519,1760,0,2519,759
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-12-2022,Canada,Medium,18,12,2022,3042,2124,0,3042,918
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-12-2022,France,Medium,21,12,2022,3549,2478,0,3549,1071
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-12-2022,Germany,Medium,21,12,2022,3549,2478,0,3549,1071
+AudioBox USB 96 Studio,Recording Bundle,PreSonus,90,199,01-12-2022,France,Medium,10,12,2022,1990,900,0,1990,1090
+MV7,Dynamic Microphone,Shure,174,199,01-12-2022,Germany,Medium,9,12,2022,1791,1566,0,1791,225
+QuadCast S,Streaming Microphone,HyperX,97,139,01-12-2022,Canada,Medium,24,12,2022,3336,2328,0,3336,1008
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-12-2022,Germany,Medium,21,12,2022,3549,2478,0,3549,1071
+AudioBox USB 96 Studio,Recording Bundle,PreSonus,90,199,01-12-2022,United States of America,Medium,14,12,2022,2786,1260,0,2786,1526
+AudioBox USB 96 Studio,Recording Bundle,PreSonus,90,199,01-12-2022,Germany,Medium,6,12,2022,1194,540,0,1194,654
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-12-2022,Mexico,Medium,20,12,2022,3380,2360,0,3380,1020
+QuadCast S,Streaming Microphone,HyperX,97,139,01-12-2022,United States of America,Medium,8,12,2022,1112,776,0,1112,336
+Arctis 7P+,Wireless Gaming Headset,SteelSeries,104,149,01-12-2022,Mexico,Medium,14,12,2022,2086,1456,0,2086,630
+NT1-A,Condenser Microphone,Rode,160,229,01-12-2022,Canada,Medium,16,12,2022,3664,2560,0,3664,1104
+NT1-A,Condenser Microphone,Rode,160,229,01-12-2022,Germany,Medium,3,12,2022,687,480,0,687,207
+Arctis 7P+,Wireless Gaming Headset,SteelSeries,104,149,01-12-2022,France,Medium,3,12,2022,447,312,0,447,135
+MV7,Dynamic Microphone,Shure,174,199,01-12-2022,France,High,15,12,2022,2985,2610,0,2985,375
+AudioBox USB 96 Studio,Recording Bundle,PreSonus,90,199,01-12-2022,Canada,High,19,12,2022,3781,1710,0,3781,2071
+QuadCast S,Streaming Microphone,HyperX,97,139,01-12-2022,Germany,High,19,12,2022,2641,1843,0,2641,798
+NT1-A,Condenser Microphone,Rode,160,229,01-12-2022,France,High,12,12,2022,2748,1920,0,2748,828
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-12-2022,Mexico,High,4,12,2022,676,472,0,676,204
+Arctis 7P+,Wireless Gaming Headset,SteelSeries,104,149,01-12-2022,Germany,High,18,12,2022,2682,1872,0,2682,810
+Arctis 7P+,Wireless Gaming Headset,SteelSeries,104,149,01-12-2022,United States of America,High,20,12,2022,2980,2080,0,2980,900
+MV7,Dynamic Microphone,Shure,174,199,01-12-2022,Mexico,High,28,12,2022,5572,4872,0,5572,700
+QuadCast S,Streaming Microphone,HyperX,97,139,01-12-2022,France,High,13,12,2022,1807,1261,0,1807,546
+AudioBox USB 96 Studio,Recording Bundle,PreSonus,90,199,01-12-2022,United States of America,High,24,12,2022,4776,2160,0,4776,2616
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-11-2022,Canada,None,17,11,2022,2873,2006,0,2873,867
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-11-2022,United States of America,None,9,11,2022,1521,1062,0,1521,459
+AudioBox USB 96 Studio,Recording Bundle,PreSonus,90,199,01-11-2022,Canada,Low,21,11,2022,4179,1890,0,4179,2289
+Arctis 7P+,Wireless Gaming Headset,SteelSeries,104,149,01-11-2022,France,Low,3,11,2022,447,312,0,447,135
+MV7,Dynamic Microphone,Shure,174,199,01-11-2022,France,Low,22,11,2022,4378,3828,0,4378,550
+NT1-A,Condenser Microphone,Rode,160,229,01-11-2022,Mexico,Low,17,11,2022,3893,2720,0,3893,1173
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-11-2022,France,Low,18,11,2022,3042,2124,0,3042,918
+MV7,Dynamic Microphone,Shure,174,199,01-11-2022,Germany,Medium,10,11,2022,1990,1740,0,1990,250
+QuadCast S,Streaming Microphone,HyperX,97,139,01-11-2022,United States of America,Medium,13,11,2022,1807,1261,0,1807,546
+QuadCast S,Streaming Microphone,HyperX,97,139,01-11-2022,Germany,Medium,23,11,2022,3197,2231,0,3197,966
+MV7,Dynamic Microphone,Shure,174,199,01-11-2022,United States of America,Medium,3,11,2022,597,522,0,597,75
+QuadCast S,Streaming Microphone,HyperX,97,139,01-11-2022,Mexico,Medium,11,11,2022,1529,1067,0,1529,462
+NT1-A,Condenser Microphone,Rode,160,229,01-11-2022,Germany,Medium,25,11,2022,5725,4000,0,5725,1725
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-11-2022,Canada,Medium,14,11,2022,2366,1652,0,2366,714
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-11-2022,Mexico,Medium,28,11,2022,4732,3304,0,4732,1428
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-11-2022,Germany,Medium,22,11,2022,3718,2596,0,3718,1122
+AudioBox USB 96 Studio,Recording Bundle,PreSonus,90,199,01-11-2022,France,Medium,4,11,2022,796,360,0,796,436
+NT1-A,Condenser Microphone,Rode,160,229,01-11-2022,France,Medium,19,11,2022,4351,3040,0,4351,1311
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-11-2022,Germany,Medium,18,11,2022,3042,2124,0,3042,918
+Arctis 7P+,Wireless Gaming Headset,SteelSeries,104,149,01-11-2022,Germany,Medium,10,11,2022,1490,1040,0,1490,450
+QuadCast S,Streaming Microphone,HyperX,97,139,01-11-2022,France,Medium,27,11,2022,3753,2619,0,3753,1134
+NT1-A,Condenser Microphone,Rode,160,229,01-11-2022,United States of America,High,18,11,2022,4122,2880,0,4122,1242
+MV7,Dynamic Microphone,Shure,174,199,01-11-2022,Canada,High,16,11,2022,3184,2784,0,3184,400
+MV7,Dynamic Microphone,Shure,174,199,01-11-2022,Mexico,High,27,11,2022,5373,4698,0,5373,675
+QuadCast S,Streaming Microphone,HyperX,97,139,01-11-2022,Canada,High,29,11,2022,4031,2813,0,4031,1218
+Arctis 7P+,Wireless Gaming Headset,SteelSeries,104,149,01-11-2022,United States of America,High,26,11,2022,3874,2704,0,3874,1170
+AudioBox USB 96 Studio,Recording Bundle,PreSonus,90,199,01-11-2022,Mexico,High,26,11,2022,5174,2340,0,5174,2834
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-11-2022,Canada,High,22,11,2022,3718,2596,0,3718,1122
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-11-2022,France,High,19,11,2022,3211,2242,0,3211,969
+AudioBox USB 96 Studio,Recording Bundle,PreSonus,90,199,01-11-2022,Germany,High,25,11,2022,4975,2250,0,4975,2725
+Arctis 7P+,Wireless Gaming Headset,SteelSeries,104,149,01-11-2022,Mexico,High,19,11,2022,2831,1976,0,2831,855
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-11-2022,United States of America,High,20,11,2022,3380,2360,0,3380,1020
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-11-2022,Mexico,High,22,11,2022,3718,2596,0,3718,1122
+AudioBox USB 96 Studio,Recording Bundle,PreSonus,90,199,01-11-2022,United States of America,High,26,11,2022,5174,2340,0,5174,2834
+QuadCast S,Streaming Microphone,HyperX,97,139,01-11-2022,Canada,High,30,11,2022,4170,2910,0,4170,1260
+NT1-A,Condenser Microphone,Rode,160,229,01-10-2022,Canada,None,4,10,2022,916,640,0,916,276
+AudioBox USB 96 Studio,Recording Bundle,PreSonus,90,199,01-10-2022,Canada,None,4,10,2022,796,360,0,796,436
+MV7,Dynamic Microphone,Shure,174,199,01-10-2022,Germany,Low,8,10,2022,1592,1392,0,1592,200
+MV7,Dynamic Microphone,Shure,174,199,01-10-2022,Mexico,Low,5,10,2022,995,870,0,995,125
+NT1-A,Condenser Microphone,Rode,160,229,01-10-2022,United States of America,Low,7,10,2022,1603,1120,0,1603,483
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-10-2022,Germany,Low,8,10,2022,1352,944,0,1352,408
+AudioBox USB 96 Studio,Recording Bundle,PreSonus,90,199,01-10-2022,United States of America,Low,7,10,2022,1393,630,0,1393,763
+QuadCast S,Streaming Microphone,HyperX,97,139,01-10-2022,Mexico,Low,5,10,2022,695,485,0,695,210
+MV7,Dynamic Microphone,Shure,174,199,01-10-2022,Germany,Low,2,10,2022,398,348,0,398,50
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-10-2022,Germany,Low,8,10,2022,1352,944,0,1352,408
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-10-2022,Mexico,Low,22,10,2022,3718,2596,0,3718,1122
+AudioBox USB 96 Studio,Recording Bundle,PreSonus,90,199,01-10-2022,Germany,Low,30,10,2022,5970,2700,0,5970,3270
+AudioBox USB 96 Studio,Recording Bundle,PreSonus,90,199,01-10-2022,Germany,Low,8,10,2022,1592,720,0,1592,872
+AudioBox USB 96 Studio,Recording Bundle,PreSonus,90,199,01-10-2022,Mexico,Low,22,10,2022,4378,1980,0,4378,2398
+QuadCast S,Streaming Microphone,HyperX,97,139,01-10-2022,Germany,Low,2,10,2022,278,194,0,278,84
+Arctis 7P+,Wireless Gaming Headset,SteelSeries,104,149,01-10-2022,Germany,Low,30,10,2022,4470,3120,0,4470,1350
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-10-2022,Germany,Low,20,10,2022,3380,2360,0,3380,1020
+QuadCast S,Streaming Microphone,HyperX,97,139,01-10-2022,Germany,Low,20,10,2022,2780,1940,0,2780,840
+MV7,Dynamic Microphone,Shure,174,199,01-10-2022,Canada,Low,29,10,2022,5771,5046,0,5771,725
+NT1-A,Condenser Microphone,Rode,160,229,01-10-2022,Canada,Low,29,10,2022,6641,4640,0,6641,2001
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-10-2022,United States of America,Low,7,10,2022,1183,826,0,1183,357
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-10-2022,Mexico,Low,15,10,2022,2535,1770,0,2535,765
+QuadCast S,Streaming Microphone,HyperX,97,139,01-10-2022,Mexico,Low,15,10,2022,2085,1455,0,2085,630
+Arctis 7P+,Wireless Gaming Headset,SteelSeries,104,149,01-10-2022,United States of America,Low,7,10,2022,1043,728,0,1043,315
+NT1-A,Condenser Microphone,Rode,160,229,01-10-2022,Germany,Medium,12,10,2022,2748,1920,0,2748,828
+Arctis 7P+,Wireless Gaming Headset,SteelSeries,104,149,01-10-2022,Germany,Medium,12,10,2022,1788,1248,0,1788,540
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-10-2022,Canada,Medium,12,10,2022,2028,1416,0,2028,612
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-10-2022,Canada,Medium,14,10,2022,2366,1652,0,2366,714
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-10-2022,France,Medium,7,10,2022,1183,826,0,1183,357
+AudioBox USB 96 Studio,Recording Bundle,PreSonus,90,199,01-10-2022,France,Medium,7,10,2022,1393,630,0,1393,763
+QuadCast S,Streaming Microphone,HyperX,97,139,01-10-2022,Canada,Medium,14,10,2022,1946,1358,0,1946,588
+Arctis 7P+,Wireless Gaming Headset,SteelSeries,104,149,01-10-2022,Canada,Medium,12,10,2022,1788,1248,0,1788,540
+MV7,Dynamic Microphone,Shure,174,199,01-10-2022,Canada,Medium,23,10,2022,4577,4002,0,4577,575
+NT1-A,Condenser Microphone,Rode,160,229,01-10-2022,France,Medium,14,10,2022,3206,2240,0,3206,966
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-10-2022,Canada,Medium,23,10,2022,3887,2714,0,3887,1173
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-10-2022,United States of America,Medium,7,10,2022,1183,826,0,1183,357
+AudioBox USB 96 Studio,Recording Bundle,PreSonus,90,199,01-10-2022,France,Medium,12,10,2022,2388,1080,0,2388,1308
+AudioBox USB 96 Studio,Recording Bundle,PreSonus,90,199,01-10-2022,France,Medium,21,10,2022,4179,1890,0,4179,2289
+QuadCast S,Streaming Microphone,HyperX,97,139,01-10-2022,France,Medium,12,10,2022,1668,1164,0,1668,504
+Arctis 7P+,Wireless Gaming Headset,SteelSeries,104,149,01-10-2022,United States of America,Medium,7,10,2022,1043,728,0,1043,315
+Arctis 7P+,Wireless Gaming Headset,SteelSeries,104,149,01-10-2022,France,Medium,14,10,2022,2086,1456,0,2086,630
+Arctis 7P+,Wireless Gaming Headset,SteelSeries,104,149,01-10-2022,France,Medium,21,10,2022,3129,2184,0,3129,945
+NT1-A,Condenser Microphone,Rode,160,229,01-10-2022,France,Medium,18,10,2022,4122,2880,0,4122,1242
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-10-2022,France,Medium,18,10,2022,3042,2124,0,3042,918
+MV7,Dynamic Microphone,Shure,174,199,01-10-2022,Mexico,Medium,4,10,2022,796,696,0,796,100
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-10-2022,Mexico,Medium,4,10,2022,676,472,0,676,204
+MV7,Dynamic Microphone,Shure,174,199,01-10-2022,United States of America,High,4,10,2022,796,696,0,796,100
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-10-2022,United States of America,High,4,10,2022,676,472,0,676,204
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-10-2022,France,High,22,10,2022,3718,2596,0,3718,1122
+AudioBox USB 96 Studio,Recording Bundle,PreSonus,90,199,01-10-2022,United States of America,High,23,10,2022,4577,2070,0,4577,2507
+QuadCast S,Streaming Microphone,HyperX,97,139,01-10-2022,United States of America,High,23,10,2022,3197,2231,0,3197,966
+QuadCast S,Streaming Microphone,HyperX,97,139,01-10-2022,France,High,22,10,2022,3058,2134,0,3058,924
+MV7,Dynamic Microphone,Shure,174,199,01-10-2022,France,High,12,10,2022,2388,2088,0,2388,300
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-10-2022,France,High,12,10,2022,2028,1416,0,2028,612
+NT1-A,Condenser Microphone,Rode,160,229,01-10-2022,Germany,High,30,10,2022,6870,4800,0,6870,2070
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-10-2022,Germany,High,30,10,2022,5070,3540,0,5070,1530
+AudioBox USB 96 Studio,Recording Bundle,PreSonus,90,199,01-10-2022,Mexico,High,3,10,2022,597,270,0,597,327
+Arctis 7P+,Wireless Gaming Headset,SteelSeries,104,149,01-10-2022,Mexico,High,3,10,2022,447,312,0,447,135
+NT1-A,Condenser Microphone,Rode,160,229,01-10-2022,Mexico,High,17,10,2022,3893,2720,0,3893,1173
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-10-2022,Mexico,High,17,10,2022,2873,2006,0,2873,867
+MV7,Dynamic Microphone,Shure,174,199,01-10-2022,United States of America,High,30,10,2022,5970,5220,0,5970,750
+NT1-A,Condenser Microphone,Rode,160,229,01-10-2022,United States of America,High,30,10,2022,6870,4800,0,6870,2070
+NT1-A,Condenser Microphone,Rode,160,229,01-10-2022,Mexico,High,17,10,2022,3893,2720,0,3893,1173
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-10-2022,Canada,High,17,10,2022,2873,2006,0,2873,867
+AudioBox USB 96 Studio,Recording Bundle,PreSonus,90,199,01-10-2022,Canada,High,3,10,2022,597,270,0,597,327
+QuadCast S,Streaming Microphone,HyperX,97,139,01-10-2022,Canada,High,3,10,2022,417,291,0,417,126
+Arctis 7P+,Wireless Gaming Headset,SteelSeries,104,149,01-10-2022,Canada,High,17,10,2022,2533,1768,0,2533,765
+Arctis 7P+,Wireless Gaming Headset,SteelSeries,104,149,01-10-2022,Mexico,High,17,10,2022,2533,1768,0,2533,765
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-10-2022,United States of America,High,3,10,2022,507,354,0,507,153
+QuadCast S,Streaming Microphone,HyperX,97,139,01-10-2022,United States of America,High,3,10,2022,417,291,0,417,126
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-09-2022,France,None,6,9,2022,1014,708,0,1014,306
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-09-2022,Mexico,None,8,9,2022,1352,944,0,1352,408
+QuadCast S,Streaming Microphone,HyperX,97,139,01-09-2022,France,None,15,9,2022,2085,1455,0,2085,630
+MV7,Dynamic Microphone,Shure,174,199,01-09-2022,United States of America,Low,3,9,2022,597,522,0,597,75
+NT1-A,Condenser Microphone,Rode,160,229,01-09-2022,United States of America,Low,25,9,2022,5725,4000,0,5725,1725
+Arctis 7P+,Wireless Gaming Headset,SteelSeries,104,149,01-09-2022,United States of America,Low,20,9,2022,2980,2080,0,2980,900
+NT1-A,Condenser Microphone,Rode,160,229,01-09-2022,Germany,Low,18,9,2022,4122,2880,0,4122,1242
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-09-2022,Mexico,Low,18,9,2022,3042,2124,0,3042,918
+AudioBox USB 96 Studio,Recording Bundle,PreSonus,90,199,01-09-2022,United States of America,Low,7,9,2022,1393,630,0,1393,763
+AudioBox USB 96 Studio,Recording Bundle,PreSonus,90,199,01-09-2022,Canada,Low,27,9,2022,5373,2430,0,5373,2943
+QuadCast S,Streaming Microphone,HyperX,97,139,01-09-2022,United States of America,Low,4,9,2022,556,388,0,556,168
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-09-2022,Canada,Medium,24,9,2022,4056,2832,0,4056,1224
+NT1-A,Condenser Microphone,Rode,160,229,01-09-2022,Mexico,Medium,7,9,2022,1603,1120,0,1603,483
+MV7,Dynamic Microphone,Shure,174,199,01-09-2022,Mexico,Medium,18,9,2022,3582,3132,0,3582,450
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-09-2022,France,Medium,10,9,2022,1690,1180,0,1690,510
+QuadCast S,Streaming Microphone,HyperX,97,139,01-09-2022,Germany,Medium,22,9,2022,3058,2134,0,3058,924
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-09-2022,United States of America,Medium,29,9,2022,4901,3422,0,4901,1479
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-09-2022,Germany,Medium,11,9,2022,1859,1298,0,1859,561
+Arctis 7P+,Wireless Gaming Headset,SteelSeries,104,149,01-09-2022,Germany,Medium,10,9,2022,1490,1040,0,1490,450
+NT1-A,Condenser Microphone,Rode,160,229,01-09-2022,Canada,Medium,13,9,2022,2977,2080,0,2977,897
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-09-2022,Germany,Medium,24,9,2022,4056,2832,0,4056,1224
+NT1-A,Condenser Microphone,Rode,160,229,01-09-2022,France,Medium,3,9,2022,687,480,0,687,207
+QuadCast S,Streaming Microphone,HyperX,97,139,01-09-2022,France,Medium,22,9,2022,3058,2134,0,3058,924
+QuadCast S,Streaming Microphone,HyperX,97,139,01-09-2022,Mexico,High,10,9,2022,1390,970,0,1390,420
+AudioBox USB 96 Studio,Recording Bundle,PreSonus,90,199,01-09-2022,France,High,28,9,2022,5572,2520,0,5572,3052
+AudioBox USB 96 Studio,Recording Bundle,PreSonus,90,199,01-09-2022,Mexico,High,7,9,2022,1393,630,0,1393,763
+Arctis 7P+,Wireless Gaming Headset,SteelSeries,104,149,01-09-2022,Mexico,High,10,9,2022,1490,1040,0,1490,450
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-09-2022,United States of America,High,4,9,2022,676,472,0,676,204
+MV7,Dynamic Microphone,Shure,174,199,01-09-2022,Canada,High,24,9,2022,4776,4176,0,4776,600
+QuadCast S,Streaming Microphone,HyperX,97,139,01-09-2022,Canada,High,6,9,2022,834,582,0,834,252
+Arctis 7P+,Wireless Gaming Headset,SteelSeries,104,149,01-09-2022,Canada,High,28,9,2022,4172,2912,0,4172,1260
+MV7,Dynamic Microphone,Shure,174,199,01-09-2022,Germany,High,4,9,2022,796,696,0,796,100
+AudioBox USB 96 Studio,Recording Bundle,PreSonus,90,199,01-09-2022,Germany,High,7,9,2022,1393,630,0,1393,763
+MV7,Dynamic Microphone,Shure,174,199,01-09-2022,France,High,10,9,2022,1990,1740,0,1990,250
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-09-2022,Canada,High,25,9,2022,4225,2950,0,4225,1275
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-08-2022,United States of America,Low,27,8,2022,4563,3186,0,4563,1377
+AudioBox USB 96 Studio,Recording Bundle,PreSonus,90,199,01-08-2022,Mexico,Low,29,8,2022,5771,2610,0,5771,3161
+QuadCast S,Streaming Microphone,HyperX,97,139,01-08-2022,United States of America,Low,4,8,2022,556,388,0,556,168
+QuadCast S,Streaming Microphone,HyperX,97,139,01-08-2022,Mexico,Low,11,8,2022,1529,1067,0,1529,462
+MV7,Dynamic Microphone,Shure,174,199,01-08-2022,Canada,Low,14,8,2022,2786,2436,0,2786,350
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-08-2022,France,Low,12,8,2022,2028,1416,0,2028,612
+Arctis 7P+,Wireless Gaming Headset,SteelSeries,104,149,01-08-2022,Canada,Low,1,8,2022,149,104,0,149,45
+NT1-A,Condenser Microphone,Rode,160,229,01-08-2022,Mexico,Medium,24,8,2022,5496,3840,0,5496,1656
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-08-2022,Canada,Medium,17,8,2022,2873,2006,0,2873,867
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-08-2022,France,Medium,18,8,2022,3042,2124,0,3042,918
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-08-2022,Germany,Medium,29,8,2022,4901,3422,0,4901,1479
+AudioBox USB 96 Studio,Recording Bundle,PreSonus,90,199,01-08-2022,France,Medium,5,8,2022,995,450,0,995,545
+MV7,Dynamic Microphone,Shure,174,199,01-08-2022,Germany,Medium,27,8,2022,5373,4698,0,5373,675
+QuadCast S,Streaming Microphone,HyperX,97,139,01-08-2022,Canada,Medium,23,8,2022,3197,2231,0,3197,966
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-08-2022,Germany,Medium,0,8,2022,0,0,0,0,0
+AudioBox USB 96 Studio,Recording Bundle,PreSonus,90,199,01-08-2022,United States of America,Medium,10,8,2022,1990,900,0,1990,1090
+AudioBox USB 96 Studio,Recording Bundle,PreSonus,90,199,01-08-2022,Germany,Medium,27,8,2022,5373,2430,0,5373,2943
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-08-2022,Mexico,Medium,17,8,2022,2873,2006,0,2873,867
+QuadCast S,Streaming Microphone,HyperX,97,139,01-08-2022,United States of America,Medium,18,8,2022,2502,1746,0,2502,756
+Arctis 7P+,Wireless Gaming Headset,SteelSeries,104,149,01-08-2022,Mexico,Medium,19,8,2022,2831,1976,0,2831,855
+NT1-A,Condenser Microphone,Rode,160,229,01-08-2022,Canada,Medium,19,8,2022,4351,3040,0,4351,1311
+NT1-A,Condenser Microphone,Rode,160,229,01-08-2022,Germany,Medium,27,8,2022,6183,4320,0,6183,1863
+Arctis 7P+,Wireless Gaming Headset,SteelSeries,104,149,01-08-2022,France,Medium,28,8,2022,4172,2912,0,4172,1260
+MV7,Dynamic Microphone,Shure,174,199,01-08-2022,France,High,17,8,2022,3383,2958,0,3383,425
+AudioBox USB 96 Studio,Recording Bundle,PreSonus,90,199,01-08-2022,Canada,High,0,8,2022,0,0,0,0,0
+QuadCast S,Streaming Microphone,HyperX,97,139,01-08-2022,Germany,High,20,8,2022,2780,1940,0,2780,840
+NT1-A,Condenser Microphone,Rode,160,229,01-08-2022,France,High,0,8,2022,0,0,0,0,0
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-08-2022,Mexico,High,2,8,2022,338,236,0,338,102
+Arctis 7P+,Wireless Gaming Headset,SteelSeries,104,149,01-08-2022,Germany,High,26,8,2022,3874,2704,0,3874,1170
+Arctis 7P+,Wireless Gaming Headset,SteelSeries,104,149,01-08-2022,United States of America,High,24,8,2022,3576,2496,0,3576,1080
+MV7,Dynamic Microphone,Shure,174,199,01-08-2022,Mexico,High,29,8,2022,5771,5046,0,5771,725
+QuadCast S,Streaming Microphone,HyperX,97,139,01-08-2022,France,High,8,8,2022,1112,776,0,1112,336
+AudioBox USB 96 Studio,Recording Bundle,PreSonus,90,199,01-08-2022,United States of America,High,5,8,2022,995,450,0,995,545
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-07-2022,Canada,None,24,7,2022,4056,2832,0,4056,1224
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-07-2022,United States of America,None,12,7,2022,2028,1416,0,2028,612
+AudioBox USB 96 Studio,Recording Bundle,PreSonus,90,199,01-07-2022,Canada,Low,7,7,2022,1393,630,0,1393,763
+Arctis 7P+,Wireless Gaming Headset,SteelSeries,104,149,01-07-2022,France,Low,17,7,2022,2533,1768,0,2533,765
+MV7,Dynamic Microphone,Shure,174,199,01-07-2022,France,Low,9,7,2022,1791,1566,0,1791,225
+NT1-A,Condenser Microphone,Rode,160,229,01-07-2022,Mexico,Low,5,7,2022,1145,800,0,1145,345
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-07-2022,France,Low,0,7,2022,0,0,0,0,0
+MV7,Dynamic Microphone,Shure,174,199,01-07-2022,Germany,Medium,14,7,2022,2786,2436,0,2786,350
+QuadCast S,Streaming Microphone,HyperX,97,139,01-07-2022,United States of America,Medium,6,7,2022,834,582,0,834,252
+QuadCast S,Streaming Microphone,HyperX,97,139,01-07-2022,Germany,Medium,18,7,2022,2502,1746,0,2502,756
+MV7,Dynamic Microphone,Shure,174,199,01-07-2022,United States of America,Medium,14,7,2022,2786,2436,0,2786,350
+QuadCast S,Streaming Microphone,HyperX,97,139,01-07-2022,Mexico,Medium,28,7,2022,3892,2716,0,3892,1176
+NT1-A,Condenser Microphone,Rode,160,229,01-07-2022,Germany,Medium,20,7,2022,4580,3200,0,4580,1380
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-07-2022,Canada,Medium,12,7,2022,2028,1416,0,2028,612
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-07-2022,Mexico,Medium,28,7,2022,4732,3304,0,4732,1428
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-07-2022,Germany,Medium,10,7,2022,1690,1180,0,1690,510
+AudioBox USB 96 Studio,Recording Bundle,PreSonus,90,199,01-07-2022,France,Medium,20,7,2022,3980,1800,0,3980,2180
+NT1-A,Condenser Microphone,Rode,160,229,01-07-2022,France,Medium,10,7,2022,2290,1600,0,2290,690
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-07-2022,Germany,Medium,13,7,2022,2197,1534,0,2197,663
+Arctis 7P+,Wireless Gaming Headset,SteelSeries,104,149,01-07-2022,Germany,Medium,16,7,2022,2384,1664,0,2384,720
+QuadCast S,Streaming Microphone,HyperX,97,139,01-07-2022,France,Medium,28,7,2022,3892,2716,0,3892,1176
+NT1-A,Condenser Microphone,Rode,160,229,01-07-2022,United States of America,High,11,7,2022,2519,1760,0,2519,759
+MV7,Dynamic Microphone,Shure,174,199,01-07-2022,Canada,High,10,7,2022,1990,1740,0,1990,250
+MV7,Dynamic Microphone,Shure,174,199,01-07-2022,Mexico,High,7,7,2022,1393,1218,0,1393,175
+QuadCast S,Streaming Microphone,HyperX,97,139,01-07-2022,Canada,High,26,7,2022,3614,2522,0,3614,1092
+Arctis 7P+,Wireless Gaming Headset,SteelSeries,104,149,01-07-2022,United States of America,High,17,7,2022,2533,1768,0,2533,765
+AudioBox USB 96 Studio,Recording Bundle,PreSonus,90,199,01-07-2022,Mexico,High,3,7,2022,597,270,0,597,327
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-07-2022,Canada,High,30,7,2022,5070,3540,0,5070,1530
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-07-2022,France,High,25,7,2022,4225,2950,0,4225,1275
+AudioBox USB 96 Studio,Recording Bundle,PreSonus,90,199,01-07-2022,Germany,High,3,7,2022,597,270,0,597,327
+Arctis 7P+,Wireless Gaming Headset,SteelSeries,104,149,01-07-2022,Mexico,High,24,7,2022,3576,2496,0,3576,1080
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-07-2022,United States of America,High,14,7,2022,2366,1652,0,2366,714
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-07-2022,Mexico,High,19,7,2022,3211,2242,0,3211,969
+AudioBox USB 96 Studio,Recording Bundle,PreSonus,90,199,01-07-2022,United States of America,High,5,7,2022,995,450,0,995,545
+QuadCast S,Streaming Microphone,HyperX,97,139,01-07-2022,Canada,High,7,7,2022,973,679,0,973,294
+NT1-A,Condenser Microphone,Rode,160,229,01-06-2022,Canada,None,24,6,2022,5496,3840,0,5496,1656
+AudioBox USB 96 Studio,Recording Bundle,PreSonus,90,199,01-06-2022,Canada,None,30,6,2022,5970,2700,0,5970,3270
+MV7,Dynamic Microphone,Shure,174,199,01-06-2022,Germany,Low,24,6,2022,4776,4176,0,4776,600
+MV7,Dynamic Microphone,Shure,174,199,01-06-2022,Mexico,Low,10,6,2022,1990,1740,0,1990,250
+NT1-A,Condenser Microphone,Rode,160,229,01-06-2022,United States of America,Low,20,6,2022,4580,3200,0,4580,1380
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-06-2022,Germany,Low,22,6,2022,3718,2596,0,3718,1122
+AudioBox USB 96 Studio,Recording Bundle,PreSonus,90,199,01-06-2022,United States of America,Low,17,6,2022,3383,1530,0,3383,1853
+QuadCast S,Streaming Microphone,HyperX,97,139,01-06-2022,Mexico,Low,3,6,2022,417,291,0,417,126
+MV7,Dynamic Microphone,Shure,174,199,01-06-2022,Germany,Low,29,6,2022,5771,5046,0,5771,725
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-06-2022,Germany,Low,1,6,2022,169,118,0,169,51
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-06-2022,Mexico,Low,25,6,2022,4225,2950,0,4225,1275
+AudioBox USB 96 Studio,Recording Bundle,PreSonus,90,199,01-06-2022,Germany,Low,11,6,2022,2189,990,0,2189,1199
+AudioBox USB 96 Studio,Recording Bundle,PreSonus,90,199,01-06-2022,Germany,Low,5,6,2022,995,450,0,995,545
+AudioBox USB 96 Studio,Recording Bundle,PreSonus,90,199,01-06-2022,Mexico,Low,30,6,2022,5970,2700,0,5970,3270
+QuadCast S,Streaming Microphone,HyperX,97,139,01-06-2022,Germany,Low,12,6,2022,1668,1164,0,1668,504
+Arctis 7P+,Wireless Gaming Headset,SteelSeries,104,149,01-06-2022,Germany,Low,25,6,2022,3725,2600,0,3725,1125
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-06-2022,Germany,Low,23,6,2022,3887,2714,0,3887,1173
+QuadCast S,Streaming Microphone,HyperX,97,139,01-06-2022,Germany,Low,23,6,2022,3197,2231,0,3197,966
+MV7,Dynamic Microphone,Shure,174,199,01-06-2022,Canada,Low,30,6,2022,5970,5220,0,5970,750
+NT1-A,Condenser Microphone,Rode,160,229,01-06-2022,Canada,Low,19,6,2022,4351,3040,0,4351,1311
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-06-2022,United States of America,Low,25,6,2022,4225,2950,0,4225,1275
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-06-2022,Mexico,Low,24,6,2022,4056,2832,0,4056,1224
+QuadCast S,Streaming Microphone,HyperX,97,139,01-06-2022,Mexico,Low,24,6,2022,3336,2328,0,3336,1008
+Arctis 7P+,Wireless Gaming Headset,SteelSeries,104,149,01-06-2022,United States of America,Low,1,6,2022,149,104,0,149,45
+NT1-A,Condenser Microphone,Rode,160,229,01-06-2022,Germany,Medium,2,6,2022,458,320,0,458,138
+Arctis 7P+,Wireless Gaming Headset,SteelSeries,104,149,01-06-2022,Germany,Medium,14,6,2022,2086,1456,0,2086,630
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-06-2022,Canada,Medium,8,6,2022,1352,944,0,1352,408
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-06-2022,Canada,Medium,24,6,2022,4056,2832,0,4056,1224
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-06-2022,France,Medium,25,6,2022,4225,2950,0,4225,1275
+AudioBox USB 96 Studio,Recording Bundle,PreSonus,90,199,01-06-2022,France,Medium,17,6,2022,3383,1530,0,3383,1853
+QuadCast S,Streaming Microphone,HyperX,97,139,01-06-2022,Canada,Medium,21,6,2022,2919,2037,0,2919,882
+Arctis 7P+,Wireless Gaming Headset,SteelSeries,104,149,01-06-2022,Canada,Medium,16,6,2022,2384,1664,0,2384,720
+MV7,Dynamic Microphone,Shure,174,199,01-06-2022,Canada,Medium,24,6,2022,4776,4176,0,4776,600
+NT1-A,Condenser Microphone,Rode,160,229,01-06-2022,France,Medium,18,6,2022,4122,2880,0,4122,1242
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-06-2022,Canada,Medium,22,6,2022,3718,2596,0,3718,1122
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-06-2022,United States of America,Medium,29,6,2022,4901,3422,0,4901,1479
+AudioBox USB 96 Studio,Recording Bundle,PreSonus,90,199,01-06-2022,France,Medium,19,6,2022,3781,1710,0,3781,2071
+AudioBox USB 96 Studio,Recording Bundle,PreSonus,90,199,01-06-2022,France,Medium,16,6,2022,3184,1440,0,3184,1744
+QuadCast S,Streaming Microphone,HyperX,97,139,01-06-2022,France,Medium,21,6,2022,2919,2037,0,2919,882
+Arctis 7P+,Wireless Gaming Headset,SteelSeries,104,149,01-06-2022,United States of America,Medium,10,6,2022,1490,1040,0,1490,450
+Arctis 7P+,Wireless Gaming Headset,SteelSeries,104,149,01-06-2022,France,Medium,20,6,2022,2980,2080,0,2980,900
+Arctis 7P+,Wireless Gaming Headset,SteelSeries,104,149,01-06-2022,France,Medium,30,6,2022,4470,3120,0,4470,1350
+NT1-A,Condenser Microphone,Rode,160,229,01-06-2022,France,Medium,11,6,2022,2519,1760,0,2519,759
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-06-2022,France,Medium,27,6,2022,4563,3186,0,4563,1377
+MV7,Dynamic Microphone,Shure,174,199,01-06-2022,Mexico,Medium,5,6,2022,995,870,0,995,125
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-06-2022,Mexico,Medium,7,6,2022,1183,826,0,1183,357
+MV7,Dynamic Microphone,Shure,174,199,01-06-2022,United States of America,High,20,6,2022,3980,3480,0,3980,500
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-06-2022,United States of America,High,18,6,2022,3042,2124,0,3042,918
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-06-2022,France,High,21,6,2022,3549,2478,0,3549,1071
+AudioBox USB 96 Studio,Recording Bundle,PreSonus,90,199,01-06-2022,United States of America,High,11,6,2022,2189,990,0,2189,1199
+QuadCast S,Streaming Microphone,HyperX,97,139,01-06-2022,United States of America,High,23,6,2022,3197,2231,0,3197,966
+QuadCast S,Streaming Microphone,HyperX,97,139,01-06-2022,France,High,9,6,2022,1251,873,0,1251,378
+MV7,Dynamic Microphone,Shure,174,199,01-06-2022,France,High,8,6,2022,1592,1392,0,1592,200
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-06-2022,France,High,6,6,2022,1014,708,0,1014,306
+NT1-A,Condenser Microphone,Rode,160,229,01-06-2022,Germany,High,9,6,2022,2061,1440,0,2061,621
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-06-2022,Germany,High,8,6,2022,1352,944,0,1352,408
+AudioBox USB 96 Studio,Recording Bundle,PreSonus,90,199,01-06-2022,Mexico,High,21,6,2022,4179,1890,0,4179,2289
+Arctis 7P+,Wireless Gaming Headset,SteelSeries,104,149,01-06-2022,Mexico,High,5,6,2022,745,520,0,745,225
+NT1-A,Condenser Microphone,Rode,160,229,01-06-2022,Mexico,High,26,6,2022,5954,4160,0,5954,1794
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-06-2022,Mexico,High,22,6,2022,3718,2596,0,3718,1122
+MV7,Dynamic Microphone,Shure,174,199,01-06-2022,United States of America,High,23,6,2022,4577,4002,0,4577,575
+NT1-A,Condenser Microphone,Rode,160,229,01-06-2022,United States of America,High,29,6,2022,6641,4640,0,6641,2001
+NT1-A,Condenser Microphone,Rode,160,229,01-06-2022,Mexico,High,4,6,2022,916,640,0,916,276
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-06-2022,Canada,High,20,6,2022,3380,2360,0,3380,1020
+AudioBox USB 96 Studio,Recording Bundle,PreSonus,90,199,01-06-2022,Canada,High,4,6,2022,796,360,0,796,436
+QuadCast S,Streaming Microphone,HyperX,97,139,01-06-2022,Canada,High,15,6,2022,2085,1455,0,2085,630
+Arctis 7P+,Wireless Gaming Headset,SteelSeries,104,149,01-06-2022,Canada,High,16,6,2022,2384,1664,0,2384,720
+Arctis 7P+,Wireless Gaming Headset,SteelSeries,104,149,01-06-2022,Mexico,High,1,6,2022,149,104,0,149,45
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-06-2022,United States of America,High,6,6,2022,1014,708,0,1014,306
+QuadCast S,Streaming Microphone,HyperX,97,139,01-06-2022,United States of America,High,30,6,2022,4170,2910,0,4170,1260
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-05-2022,France,None,9,5,2022,1521,1062,0,1521,459
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-05-2022,Mexico,None,1,5,2022,169,118,0,169,51
+QuadCast S,Streaming Microphone,HyperX,97,139,01-05-2022,France,None,10,5,2022,1390,970,0,1390,420
+MV7,Dynamic Microphone,Shure,174,199,01-05-2022,United States of America,Low,10,5,2022,1990,1740,0,1990,250
+NT1-A,Condenser Microphone,Rode,160,229,01-05-2022,United States of America,Low,2,5,2022,458,320,0,458,138
+Arctis 7P+,Wireless Gaming Headset,SteelSeries,104,149,01-05-2022,United States of America,Low,15,5,2022,2235,1560,0,2235,675
+NT1-A,Condenser Microphone,Rode,160,229,01-05-2022,Germany,Low,28,5,2022,6412,4480,0,6412,1932
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-05-2022,Mexico,Low,7,5,2022,1183,826,0,1183,357
+AudioBox USB 96 Studio,Recording Bundle,PreSonus,90,199,01-05-2022,United States of America,Low,17,5,2022,3383,1530,0,3383,1853
+AudioBox USB 96 Studio,Recording Bundle,PreSonus,90,199,01-05-2022,Canada,Low,9,5,2022,1791,810,0,1791,981
+QuadCast S,Streaming Microphone,HyperX,97,139,01-05-2022,United States of America,Low,11,5,2022,1529,1067,0,1529,462
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-05-2022,Canada,Medium,15,5,2022,2535,1770,0,2535,765
+NT1-A,Condenser Microphone,Rode,160,229,01-05-2022,Mexico,Medium,0,5,2022,0,0,0,0,0
+MV7,Dynamic Microphone,Shure,174,199,01-05-2022,Mexico,Medium,3,5,2022,597,522,0,597,75
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-05-2022,France,Medium,20,5,2022,3380,2360,0,3380,1020
+QuadCast S,Streaming Microphone,HyperX,97,139,01-05-2022,Germany,Medium,10,5,2022,1390,970,0,1390,420
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-05-2022,United States of America,Medium,20,5,2022,3380,2360,0,3380,1020
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-05-2022,Germany,Medium,18,5,2022,3042,2124,0,3042,918
+Arctis 7P+,Wireless Gaming Headset,SteelSeries,104,149,01-05-2022,Germany,Medium,21,5,2022,3129,2184,0,3129,945
+NT1-A,Condenser Microphone,Rode,160,229,01-05-2022,Canada,Medium,7,5,2022,1603,1120,0,1603,483
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-05-2022,Germany,Medium,13,5,2022,2197,1534,0,2197,663
+NT1-A,Condenser Microphone,Rode,160,229,01-05-2022,France,Medium,8,5,2022,1832,1280,0,1832,552
+QuadCast S,Streaming Microphone,HyperX,97,139,01-05-2022,France,Medium,29,5,2022,4031,2813,0,4031,1218
+QuadCast S,Streaming Microphone,HyperX,97,139,01-05-2022,Mexico,High,11,5,2022,1529,1067,0,1529,462
+AudioBox USB 96 Studio,Recording Bundle,PreSonus,90,199,01-05-2022,France,High,17,5,2022,3383,1530,0,3383,1853
+AudioBox USB 96 Studio,Recording Bundle,PreSonus,90,199,01-05-2022,Mexico,High,8,5,2022,1592,720,0,1592,872
+Arctis 7P+,Wireless Gaming Headset,SteelSeries,104,149,01-05-2022,Mexico,High,22,5,2022,3278,2288,0,3278,990
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-05-2022,United States of America,High,4,5,2022,676,472,0,676,204
+MV7,Dynamic Microphone,Shure,174,199,01-05-2022,Canada,High,2,5,2022,398,348,0,398,50
+QuadCast S,Streaming Microphone,HyperX,97,139,01-05-2022,Canada,High,1,5,2022,139,97,0,139,42
+Arctis 7P+,Wireless Gaming Headset,SteelSeries,104,149,01-05-2022,Canada,High,4,5,2022,596,416,0,596,180
+MV7,Dynamic Microphone,Shure,174,199,01-05-2022,Germany,High,11,5,2022,2189,1914,0,2189,275
+AudioBox USB 96 Studio,Recording Bundle,PreSonus,90,199,01-05-2022,Germany,High,28,5,2022,5572,2520,0,5572,3052
+MV7,Dynamic Microphone,Shure,174,199,01-05-2022,France,High,7,5,2022,1393,1218,0,1393,175
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-05-2022,Canada,High,13,5,2022,2197,1534,0,2197,663
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-04-2022,United States of America,Low,1,4,2022,169,118,0,169,51
+AudioBox USB 96 Studio,Recording Bundle,PreSonus,90,199,01-04-2022,Mexico,Low,28,4,2022,5572,2520,0,5572,3052
+QuadCast S,Streaming Microphone,HyperX,97,139,01-04-2022,United States of America,Low,0,4,2022,0,0,0,0,0
+QuadCast S,Streaming Microphone,HyperX,97,139,01-04-2022,Mexico,Low,7,4,2022,973,679,0,973,294
+MV7,Dynamic Microphone,Shure,174,199,01-04-2022,Canada,Low,3,4,2022,597,522,0,597,75
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-04-2022,France,Low,9,4,2022,1521,1062,0,1521,459
+Arctis 7P+,Wireless Gaming Headset,SteelSeries,104,149,01-04-2022,Canada,Low,10,4,2022,1490,1040,0,1490,450
+NT1-A,Condenser Microphone,Rode,160,229,01-04-2022,Mexico,Medium,7,4,2022,1603,1120,0,1603,483
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-04-2022,Canada,Medium,11,4,2022,1859,1298,0,1859,561
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-04-2022,France,Medium,24,4,2022,4056,2832,0,4056,1224
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-04-2022,Germany,Medium,24,4,2022,4056,2832,0,4056,1224
+AudioBox USB 96 Studio,Recording Bundle,PreSonus,90,199,01-04-2022,France,Medium,13,4,2022,2587,1170,0,2587,1417
+MV7,Dynamic Microphone,Shure,174,199,01-04-2022,Germany,Medium,24,4,2022,4776,4176,0,4776,600
+QuadCast S,Streaming Microphone,HyperX,97,139,01-04-2022,Canada,Medium,13,4,2022,1807,1261,0,1807,546
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-04-2022,Germany,Medium,1,4,2022,169,118,0,169,51
+AudioBox USB 96 Studio,Recording Bundle,PreSonus,90,199,01-04-2022,United States of America,Medium,22,4,2022,4378,1980,0,4378,2398
+AudioBox USB 96 Studio,Recording Bundle,PreSonus,90,199,01-04-2022,Germany,Medium,8,4,2022,1592,720,0,1592,872
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-04-2022,Mexico,Medium,26,4,2022,4394,3068,0,4394,1326
+QuadCast S,Streaming Microphone,HyperX,97,139,01-04-2022,United States of America,Medium,7,4,2022,973,679,0,973,294
+Arctis 7P+,Wireless Gaming Headset,SteelSeries,104,149,01-04-2022,Mexico,Medium,12,4,2022,1788,1248,0,1788,540
+NT1-A,Condenser Microphone,Rode,160,229,01-04-2022,Canada,Medium,8,4,2022,1832,1280,0,1832,552
+NT1-A,Condenser Microphone,Rode,160,229,01-04-2022,Germany,Medium,9,4,2022,2061,1440,0,2061,621
+Arctis 7P+,Wireless Gaming Headset,SteelSeries,104,149,01-04-2022,France,Medium,1,4,2022,149,104,0,149,45
+MV7,Dynamic Microphone,Shure,174,199,01-04-2022,France,High,21,4,2022,4179,3654,0,4179,525
+AudioBox USB 96 Studio,Recording Bundle,PreSonus,90,199,01-04-2022,Canada,High,1,4,2022,199,90,0,199,109
+QuadCast S,Streaming Microphone,HyperX,97,139,01-04-2022,Germany,High,18,4,2022,2502,1746,0,2502,756
+NT1-A,Condenser Microphone,Rode,160,229,01-04-2022,France,High,20,4,2022,4580,3200,0,4580,1380
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-04-2022,Mexico,High,9,4,2022,1521,1062,0,1521,459
+Arctis 7P+,Wireless Gaming Headset,SteelSeries,104,149,01-04-2022,Germany,High,28,4,2022,4172,2912,0,4172,1260
+Arctis 7P+,Wireless Gaming Headset,SteelSeries,104,149,01-04-2022,United States of America,High,14,4,2022,2086,1456,0,2086,630
+MV7,Dynamic Microphone,Shure,174,199,01-04-2022,Mexico,High,10,4,2022,1990,1740,0,1990,250
+QuadCast S,Streaming Microphone,HyperX,97,139,01-04-2022,France,High,19,4,2022,2641,1843,0,2641,798
+AudioBox USB 96 Studio,Recording Bundle,PreSonus,90,199,01-04-2022,United States of America,High,28,4,2022,5572,2520,0,5572,3052
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-03-2022,Canada,None,24,3,2022,4056,2832,0,4056,1224
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-03-2022,United States of America,None,2,3,2022,338,236,0,338,102
+AudioBox USB 96 Studio,Recording Bundle,PreSonus,90,199,01-03-2022,Canada,Low,3,3,2022,597,270,0,597,327
+Arctis 7P+,Wireless Gaming Headset,SteelSeries,104,149,01-03-2022,France,Low,27,3,2022,4023,2808,0,4023,1215
+MV7,Dynamic Microphone,Shure,174,199,01-03-2022,France,Low,7,3,2022,1393,1218,0,1393,175
+NT1-A,Condenser Microphone,Rode,160,229,01-03-2022,Mexico,Low,14,3,2022,3206,2240,0,3206,966
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-03-2022,France,Low,16,3,2022,2704,1888,0,2704,816
+MV7,Dynamic Microphone,Shure,174,199,01-03-2022,Germany,Medium,11,3,2022,2189,1914,0,2189,275
+QuadCast S,Streaming Microphone,HyperX,97,139,01-03-2022,United States of America,Medium,15,3,2022,2085,1455,0,2085,630
+QuadCast S,Streaming Microphone,HyperX,97,139,01-03-2022,Germany,Medium,26,3,2022,3614,2522,0,3614,1092
+MV7,Dynamic Microphone,Shure,174,199,01-03-2022,United States of America,Medium,16,3,2022,3184,2784,0,3184,400
+QuadCast S,Streaming Microphone,HyperX,97,139,01-03-2022,Mexico,Medium,14,3,2022,1946,1358,0,1946,588
+NT1-A,Condenser Microphone,Rode,160,229,01-03-2022,Germany,Medium,3,3,2022,687,480,0,687,207
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-03-2022,Canada,Medium,16,3,2022,2704,1888,0,2704,816
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-03-2022,Mexico,Medium,11,3,2022,1859,1298,0,1859,561
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-03-2022,Germany,Medium,1,3,2022,169,118,0,169,51
+AudioBox USB 96 Studio,Recording Bundle,PreSonus,90,199,01-03-2022,France,Medium,10,3,2022,1990,900,0,1990,1090
+NT1-A,Condenser Microphone,Rode,160,229,01-03-2022,France,Medium,7,3,2022,1603,1120,0,1603,483
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-03-2022,Germany,Medium,24,3,2022,4056,2832,0,4056,1224
+Arctis 7P+,Wireless Gaming Headset,SteelSeries,104,149,01-03-2022,Germany,Medium,5,3,2022,745,520,0,745,225
+QuadCast S,Streaming Microphone,HyperX,97,139,01-03-2022,France,Medium,23,3,2022,3197,2231,0,3197,966
+NT1-A,Condenser Microphone,Rode,160,229,01-03-2022,United States of America,High,26,3,2022,5954,4160,0,5954,1794
+MV7,Dynamic Microphone,Shure,174,199,01-03-2022,Canada,High,13,3,2022,2587,2262,0,2587,325
+MV7,Dynamic Microphone,Shure,174,199,01-03-2022,Mexico,High,25,3,2022,4975,4350,0,4975,625
+QuadCast S,Streaming Microphone,HyperX,97,139,01-03-2022,Canada,High,9,3,2022,1251,873,0,1251,378
+Arctis 7P+,Wireless Gaming Headset,SteelSeries,104,149,01-03-2022,United States of America,High,22,3,2022,3278,2288,0,3278,990
+AudioBox USB 96 Studio,Recording Bundle,PreSonus,90,199,01-03-2022,Mexico,High,19,3,2022,3781,1710,0,3781,2071
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-03-2022,Canada,High,9,3,2022,1521,1062,0,1521,459
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-03-2022,France,High,28,3,2022,4732,3304,0,4732,1428
+AudioBox USB 96 Studio,Recording Bundle,PreSonus,90,199,01-03-2022,Germany,High,4,3,2022,796,360,0,796,436
+Arctis 7P+,Wireless Gaming Headset,SteelSeries,104,149,01-03-2022,Mexico,High,24,3,2022,3576,2496,0,3576,1080
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-03-2022,United States of America,High,29,3,2022,4901,3422,0,4901,1479
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-03-2022,Mexico,High,18,3,2022,3042,2124,0,3042,918
+AudioBox USB 96 Studio,Recording Bundle,PreSonus,90,199,01-03-2022,United States of America,High,24,3,2022,4776,2160,0,4776,2616
+QuadCast S,Streaming Microphone,HyperX,97,139,01-03-2022,Canada,High,13,3,2022,1807,1261,0,1807,546
+NT1-A,Condenser Microphone,Rode,160,229,01-02-2022,Canada,None,5,2,2022,1145,800,0,1145,345
+AudioBox USB 96 Studio,Recording Bundle,PreSonus,90,199,01-02-2022,Canada,None,17,2,2022,3383,1530,0,3383,1853
+MV7,Dynamic Microphone,Shure,174,199,01-02-2022,Germany,Low,26,2,2022,5174,4524,0,5174,650
+MV7,Dynamic Microphone,Shure,174,199,01-02-2022,Mexico,Low,3,2,2022,597,522,0,597,75
+NT1-A,Condenser Microphone,Rode,160,229,01-02-2022,United States of America,Low,23,2,2022,5267,3680,0,5267,1587
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-02-2022,Germany,Low,10,2,2022,1690,1180,0,1690,510
+AudioBox USB 96 Studio,Recording Bundle,PreSonus,90,199,01-02-2022,United States of America,Low,28,2,2022,5572,2520,0,5572,3052
+QuadCast S,Streaming Microphone,HyperX,97,139,01-02-2022,Mexico,Low,4,2,2022,556,388,0,556,168
+MV7,Dynamic Microphone,Shure,174,199,01-02-2022,Germany,Low,8,2,2022,1592,1392,0,1592,200
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-02-2022,Germany,Low,25,2,2022,4225,2950,0,4225,1275
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-02-2022,Mexico,Low,25,2,2022,4225,2950,0,4225,1275
+AudioBox USB 96 Studio,Recording Bundle,PreSonus,90,199,01-02-2022,Germany,Low,16,2,2022,3184,1440,0,3184,1744
+AudioBox USB 96 Studio,Recording Bundle,PreSonus,90,199,01-02-2022,Germany,Low,10,2,2022,1990,900,0,1990,1090
+AudioBox USB 96 Studio,Recording Bundle,PreSonus,90,199,01-02-2022,Mexico,Low,19,2,2022,3781,1710,0,3781,2071
+QuadCast S,Streaming Microphone,HyperX,97,139,01-02-2022,Germany,Low,20,2,2022,2780,1940,0,2780,840
+Arctis 7P+,Wireless Gaming Headset,SteelSeries,104,149,01-02-2022,Germany,Low,16,2,2022,2384,1664,0,2384,720
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-02-2022,Germany,Low,21,2,2022,3549,2478,0,3549,1071
+QuadCast S,Streaming Microphone,HyperX,97,139,01-02-2022,Germany,Low,10,2,2022,1390,970,0,1390,420
+MV7,Dynamic Microphone,Shure,174,199,01-02-2022,Canada,Low,17,2,2022,3383,2958,0,3383,425
+NT1-A,Condenser Microphone,Rode,160,229,01-02-2022,Canada,Low,17,2,2022,3893,2720,0,3893,1173
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-02-2022,United States of America,Low,29,2,2022,4901,3422,0,4901,1479
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-02-2022,Mexico,Low,16,2,2022,2704,1888,0,2704,816
+QuadCast S,Streaming Microphone,HyperX,97,139,01-02-2022,Mexico,Low,23,2,2022,3197,2231,0,3197,966
+Arctis 7P+,Wireless Gaming Headset,SteelSeries,104,149,01-02-2022,United States of America,Low,26,2,2022,3874,2704,0,3874,1170
+NT1-A,Condenser Microphone,Rode,160,229,01-02-2022,Germany,Medium,5,2,2022,1145,800,0,1145,345
+Arctis 7P+,Wireless Gaming Headset,SteelSeries,104,149,01-02-2022,Germany,Medium,23,2,2022,3427,2392,0,3427,1035
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-02-2022,Canada,Medium,11,2,2022,1859,1298,0,1859,561
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-02-2022,Canada,Medium,10,2,2022,1690,1180,0,1690,510
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-02-2022,France,Medium,7,2,2022,1183,826,0,1183,357
+AudioBox USB 96 Studio,Recording Bundle,PreSonus,90,199,01-02-2022,France,Medium,3,2,2022,597,270,0,597,327
+QuadCast S,Streaming Microphone,HyperX,97,139,01-02-2022,Canada,Medium,12,2,2022,1668,1164,0,1668,504
+Arctis 7P+,Wireless Gaming Headset,SteelSeries,104,149,01-02-2022,Canada,Medium,20,2,2022,2980,2080,0,2980,900
+MV7,Dynamic Microphone,Shure,174,199,01-02-2022,Canada,Medium,9,2,2022,1791,1566,0,1791,225
+NT1-A,Condenser Microphone,Rode,160,229,01-02-2022,France,Medium,5,2,2022,1145,800,0,1145,345
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-02-2022,Canada,Medium,9,2,2022,1521,1062,0,1521,459
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-02-2022,United States of America,Medium,6,2,2022,1014,708,0,1014,306
+AudioBox USB 96 Studio,Recording Bundle,PreSonus,90,199,01-02-2022,France,Medium,3,2,2022,597,270,0,597,327
+AudioBox USB 96 Studio,Recording Bundle,PreSonus,90,199,01-02-2022,France,Medium,27,2,2022,5373,2430,0,5373,2943
+QuadCast S,Streaming Microphone,HyperX,97,139,01-02-2022,France,Medium,5,2,2022,695,485,0,695,210
+Arctis 7P+,Wireless Gaming Headset,SteelSeries,104,149,01-02-2022,United States of America,Medium,27,2,2022,4023,2808,0,4023,1215
+Arctis 7P+,Wireless Gaming Headset,SteelSeries,104,149,01-02-2022,France,Medium,20,2,2022,2980,2080,0,2980,900
+Arctis 7P+,Wireless Gaming Headset,SteelSeries,104,149,01-02-2022,France,Medium,15,2,2022,2235,1560,0,2235,675
+NT1-A,Condenser Microphone,Rode,160,229,01-02-2022,France,Medium,0,2,2022,0,0,0,0,0
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-02-2022,France,Medium,21,2,2022,3549,2478,0,3549,1071
+MV7,Dynamic Microphone,Shure,174,199,01-02-2022,Mexico,Medium,18,2,2022,3582,3132,0,3582,450
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-02-2022,Mexico,Medium,16,2,2022,2704,1888,0,2704,816
+MV7,Dynamic Microphone,Shure,174,199,01-02-2022,United States of America,High,8,2,2022,1592,1392,0,1592,200
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-02-2022,United States of America,High,15,2,2022,2535,1770,0,2535,765
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-02-2022,France,High,2,2,2022,338,236,0,338,102
+AudioBox USB 96 Studio,Recording Bundle,PreSonus,90,199,01-02-2022,United States of America,High,4,2,2022,796,360,0,796,436
+QuadCast S,Streaming Microphone,HyperX,97,139,01-02-2022,United States of America,High,26,2,2022,3614,2522,0,3614,1092
+QuadCast S,Streaming Microphone,HyperX,97,139,01-02-2022,France,High,16,2,2022,2224,1552,0,2224,672
+MV7,Dynamic Microphone,Shure,174,199,01-02-2022,France,High,23,2,2022,4577,4002,0,4577,575
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-02-2022,France,High,12,2,2022,2028,1416,0,2028,612
+NT1-A,Condenser Microphone,Rode,160,229,01-02-2022,Germany,High,18,2,2022,4122,2880,0,4122,1242
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-02-2022,Germany,High,27,2,2022,4563,3186,0,4563,1377
+AudioBox USB 96 Studio,Recording Bundle,PreSonus,90,199,01-02-2022,Mexico,High,17,2,2022,3383,1530,0,3383,1853
+Arctis 7P+,Wireless Gaming Headset,SteelSeries,104,149,01-02-2022,Mexico,High,10,2,2022,1490,1040,0,1490,450
+NT1-A,Condenser Microphone,Rode,160,229,01-02-2022,Mexico,High,29,2,2022,6641,4640,0,6641,2001
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-02-2022,Mexico,High,7,2,2022,1183,826,0,1183,357
+MV7,Dynamic Microphone,Shure,174,199,01-02-2022,United States of America,High,12,2,2022,2388,2088,0,2388,300
+NT1-A,Condenser Microphone,Rode,160,229,01-02-2022,United States of America,High,23,2,2022,5267,3680,0,5267,1587
+NT1-A,Condenser Microphone,Rode,160,229,01-02-2022,Mexico,High,26,2,2022,5954,4160,0,5954,1794
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-02-2022,Canada,High,30,2,2022,5070,3540,0,5070,1530
+AudioBox USB 96 Studio,Recording Bundle,PreSonus,90,199,01-02-2022,Canada,High,20,2,2022,3980,1800,0,3980,2180
+QuadCast S,Streaming Microphone,HyperX,97,139,01-02-2022,Canada,High,20,2,2022,2780,1940,0,2780,840
+Arctis 7P+,Wireless Gaming Headset,SteelSeries,104,149,01-02-2022,Canada,High,16,2,2022,2384,1664,0,2384,720
+Arctis 7P+,Wireless Gaming Headset,SteelSeries,104,149,01-02-2022,Mexico,High,4,2,2022,596,416,0,596,180
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-02-2022,United States of America,High,17,2,2022,2873,2006,0,2873,867
+QuadCast S,Streaming Microphone,HyperX,97,139,01-02-2022,United States of America,High,29,2,2022,4031,2813,0,4031,1218
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-01-2022,France,None,27,1,2022,4563,3186,0,4563,1377
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-01-2022,Mexico,None,24,1,2022,4056,2832,0,4056,1224
+QuadCast S,Streaming Microphone,HyperX,97,139,01-01-2022,France,None,20,1,2022,2780,1940,0,2780,840
+MV7,Dynamic Microphone,Shure,174,199,01-01-2022,United States of America,Low,2,1,2022,398,348,0,398,50
+NT1-A,Condenser Microphone,Rode,160,229,01-01-2022,United States of America,Low,23,1,2022,5267,3680,0,5267,1587
+Arctis 7P+,Wireless Gaming Headset,SteelSeries,104,149,01-01-2022,United States of America,Low,28,1,2022,4172,2912,0,4172,1260
+NT1-A,Condenser Microphone,Rode,160,229,01-01-2022,Germany,Low,16,1,2022,3664,2560,0,3664,1104
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-01-2022,Mexico,Low,26,1,2022,4394,3068,0,4394,1326
+AudioBox USB 96 Studio,Recording Bundle,PreSonus,90,199,01-01-2022,United States of America,Low,17,1,2022,3383,1530,0,3383,1853
+AudioBox USB 96 Studio,Recording Bundle,PreSonus,90,199,01-01-2022,Canada,Low,1,1,2022,199,90,0,199,109
+QuadCast S,Streaming Microphone,HyperX,97,139,01-01-2022,United States of America,Low,25,1,2022,3475,2425,0,3475,1050
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-01-2022,Canada,Medium,25,1,2022,4225,2950,0,4225,1275
+NT1-A,Condenser Microphone,Rode,160,229,01-01-2022,Mexico,Medium,5,1,2022,1145,800,0,1145,345
+MV7,Dynamic Microphone,Shure,174,199,01-01-2022,Mexico,Medium,8,1,2022,1592,1392,0,1592,200
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-01-2022,France,Medium,18,1,2022,3042,2124,0,3042,918
+QuadCast S,Streaming Microphone,HyperX,97,139,01-01-2022,Germany,Medium,7,1,2022,973,679,0,973,294
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-01-2022,United States of America,Medium,28,1,2022,4732,3304,0,4732,1428
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-01-2022,Germany,Medium,14,1,2022,2366,1652,0,2366,714
+Arctis 7P+,Wireless Gaming Headset,SteelSeries,104,149,01-01-2022,Germany,Medium,25,1,2022,3725,2600,0,3725,1125
+NT1-A,Condenser Microphone,Rode,160,229,01-01-2022,Canada,Medium,22,1,2022,5038,3520,0,5038,1518
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-01-2022,Germany,Medium,21,1,2022,3549,2478,0,3549,1071
+NT1-A,Condenser Microphone,Rode,160,229,01-01-2022,France,Medium,17,1,2022,3893,2720,0,3893,1173
+QuadCast S,Streaming Microphone,HyperX,97,139,01-01-2022,France,Medium,8,1,2022,1112,776,0,1112,336
+QuadCast S,Streaming Microphone,HyperX,97,139,01-01-2022,Mexico,High,26,1,2022,3614,2522,0,3614,1092
+AudioBox USB 96 Studio,Recording Bundle,PreSonus,90,199,01-01-2022,France,High,8,1,2022,1592,720,0,1592,872
+AudioBox USB 96 Studio,Recording Bundle,PreSonus,90,199,01-01-2022,Mexico,High,27,1,2022,5373,2430,0,5373,2943
+Arctis 7P+,Wireless Gaming Headset,SteelSeries,104,149,01-01-2022,Mexico,High,20,1,2022,2980,2080,0,2980,900
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-01-2022,United States of America,High,9,1,2022,1521,1062,0,1521,459
+MV7,Dynamic Microphone,Shure,174,199,01-01-2022,Canada,High,25,1,2022,4975,4350,0,4975,625
+QuadCast S,Streaming Microphone,HyperX,97,139,01-01-2022,Canada,High,28,1,2022,3892,2716,0,3892,1176
+Arctis 7P+,Wireless Gaming Headset,SteelSeries,104,149,01-01-2022,Canada,High,9,1,2022,1341,936,0,1341,405
+MV7,Dynamic Microphone,Shure,174,199,01-01-2022,Germany,High,8,1,2022,1592,1392,0,1592,200
+AudioBox USB 96 Studio,Recording Bundle,PreSonus,90,199,01-01-2022,Germany,High,17,1,2022,3383,1530,0,3383,1853
+MV7,Dynamic Microphone,Shure,174,199,01-01-2022,France,High,5,1,2022,995,870,0,995,125
+Scarlett 2i2,Audio Interface,Focusrite,118,169,01-01-2022,Canada,High,19,1,2022,3211,2242,0,3211,969
