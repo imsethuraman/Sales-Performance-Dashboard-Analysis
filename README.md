@@ -17,7 +17,6 @@ Profitability insights
 
 <img width="1280" height="716" alt="Sales Analysis Dashboard" src="https://github.com/user-attachments/assets/38fa89f9-9af8-4e1b-8cba-da36f61b5128" />
 
-
 🚀 Key Metrics
 💰 Total Revenue: 2.95M+
 📈 Total Profit: 934K+
@@ -26,13 +25,9 @@ Profitability insights
 💲 Avg Selling Price: 177.64
 
 Product Performance
-
 <img width="1300" height="917" alt="Sales Analysis Dashboard II" src="https://github.com/user-attachments/assets/5d812ec6-eebf-4108-89f1-5605547249be" />
-
 Data Modelling
-
 <img width="1206" height="783" alt="Sales Analysis Dashboard III" src="https://github.com/user-attachments/assets/765b321a-e242-44be-b2a6-3eb20d3599a6" />
-
 
 🔍 Key Insights
 
